@@ -4,6 +4,7 @@
 
 Entry level role.  Is likely to be their first or second job in the industry, and their first experience working with large codebases or with large teams.
 
+## Growing and learning as a junior developer
 
 ## Using a programming language
 
