@@ -1,5 +1,7 @@
 # Producing production ready code with assistance
 
+## You should be able to:
+
 Working with a more experience developer, produce code of a sufficient quality standard to ship to production
 
 ## Next level
