@@ -1,11 +1,11 @@
 
-Junior
+# Junior
 
 
 Entry level role.  Is likely to be their first or second job in the industry, and their first experience working with large codebases or with large teams.
 
 
-Using a programming language
+## Using a programming language
 
 Leading on getting well defined tasks from backlog to production
 
@@ -17,8 +17,8 @@ Sharing learning with peers (e.g. through documentation, talks, etc)
 
 
 
-Regularly demonstrates
-ability in:
+## Regularly demonstrates ability in:
+
 Producing production-ready code with assistance
 
 Owning their development plan
