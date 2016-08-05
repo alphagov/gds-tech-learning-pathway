@@ -4,7 +4,7 @@ This repo exists to bring together the GDS Technology community's collective kno
 
 We want to:
 
-- elaborate the technolgist career pathways in more detail
+- elaborate the [technolgist career pathways](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) in more detail
 - create a set of curated guides, organised by topic, technology, constiuency, level. There may be multiple cross-cutting routes into the resources, but our aim is to cater for the most important needs of technogists.
 
 For a first pass we are going to:
