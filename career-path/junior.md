@@ -19,7 +19,7 @@ Sharing learning with peers (e.g. through documentation, talks, etc)
 
 ## Regularly demonstrates ability in:
 
-Producing production-ready code with assistance
+[Producing production-ready code with assistance](junior/producing-production-ready-code-with-assistance.md)
 
 Owning their development plan
 
