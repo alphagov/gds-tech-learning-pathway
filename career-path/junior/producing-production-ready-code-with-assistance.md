@@ -4,10 +4,6 @@
 
 Working with a more experience developer, produce code of a sufficient quality standard to ship to production
 
-## Next level
-
-< What a developer is expected to >
-
 ## Useful resources
 
 Depending on the technology you're working with you may find the following guides helpful:
