@@ -1,5 +1,5 @@
 
-Developer OR Web Operations
+## Developer OR Web Operations
 
 Proficient in technical systems they are working on, aware and guided by the wider context of their work, helps to plan and ensure delivery, finding opportunities to share information with colleagues and others, taking responsibility for own work and development.
 Diagnosing and debugging production issues
@@ -17,10 +17,9 @@ Sharing knowledge with others by blogging, writing guides, and giving tech talks
 Participating in the design of  technical features
 
 
-Making decisions based on data, both quantitative and qualitative
-Demonstrates strong
-skills in:
+## Making decisions based on data, both quantitative and qualitative
 
+Demonstrates strong skills in:
 
 Using a systematic approach to solving problems
 
@@ -50,7 +49,7 @@ Owning a small to medium feature from concept to production
 
 Making steady progress on tasks without need for constant feedback from more senior technologists
 
-Role Specific
+## Role Specific
 
 Developer: is capable of clean and correct code
 
