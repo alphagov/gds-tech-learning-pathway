@@ -20,7 +20,7 @@ You should understand different types of testing and when to use them:
 
 Testing guides:
 
-- [Service Design Manual testing guidance](https://www.gov.uk/service-manual/making-software/code-testing.html)
+- [Service Design Manual: Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
 - [Test driven development](/guides/tdd.md)
 - [Performance testing](/guides/ruby.md)
 
