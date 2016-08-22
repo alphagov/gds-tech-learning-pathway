@@ -15,7 +15,6 @@ A well defined story will:
 
 - have clear acceptance criteria, so that you know when you're done
 - have a clear statement of which files, classes, tests, microservices will need to change, and in what way
-- 
 
 ### Mid level
 
