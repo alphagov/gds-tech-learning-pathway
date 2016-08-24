@@ -13,7 +13,7 @@ We want to:
 
 For a first pass we are going to:
 
-- create a page for each competency statement on the technologist career path which:
+- create a page for [each competency statement](/career-path/competencies/) on the technologist career path which:
   - describes in a little more detail that particular competency
   - links to guides which would help to learn that competency
 
