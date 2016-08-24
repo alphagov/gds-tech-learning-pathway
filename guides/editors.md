@@ -17,7 +17,7 @@ Examples of ways you can improve your workflow
 - Code generation
 - Quicker and safer refactoring
 - Shortcuts for common dev tasks (eg run the tests)
-- Quicker navigation between files in your projects
+- Quicker navigation between and within files in your projects
 - Using the debugger
 
 ## Resources
@@ -27,9 +27,9 @@ Examples of ways you can improve your workflow
 
 ## Meta
 
-Status: early draft
-Todo:
+Status: **early draft**
 
+Todo:
 - Say more about the different types of editors (IDEs vs Plaintext vs Vim vs Emacs) - what is an IDE, why do people use it, why do some people not use it
 - Say something about VIM+Tmux type setup
 
