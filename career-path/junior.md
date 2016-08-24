@@ -8,7 +8,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 ## Using a programming language
 
-[Leading on getting well defined tasks from backlog to production](/guides/leading-on-stories.md)
+[Leading on getting well defined tasks from backlog to production](/competencies/leading-on-stories.md)
 
 Assisting getting complex tasks from concept to production
 
@@ -20,7 +20,7 @@ Sharing learning with peers (e.g. through documentation, talks, etc)
 
 ## Regularly demonstrates ability in:
 
-[Producing production-ready code with assistance](/junior/producing-production-ready-code-with-assistance.md)
+[Producing production-ready code with assistance](/competencies/producing-production-ready-code-with-assistance.md)
 
 Owning their development plan
 
