@@ -26,7 +26,7 @@ Owning their development plan
 
 Using [version control](/guides/version-control.md) and [editors](/guides/editors.md)
 
-Best practices in testing
+[Best practices in testing](/guides/testing.md)
 
 Showing awareness of the wider tech community
 
