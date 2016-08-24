@@ -2,10 +2,11 @@
 
 ### The developers role
 
-- to figure out how to deliver a user story in the most appropriate way
-- to consider and balance short and long term impacts of implementation choices
-- to ensure that code produced is of the appropriate quality (which will be different for a prototype vs a live production service)
-- to ensure that all parts of a codebase are known by many developers on the team
+You should take responsibility for:
+- figuring out how to deliver a user story in the most appropriate way
+- considering and balancing short and long term impacts of implementation choices
+- ensuring that code produced is of the appropriate quality (which will be different for a prototype vs a live production service)
+- ensuring that your knowledge is shared amongst your team so that silos don't form
 
 ### Junior level
 
