@@ -38,7 +38,7 @@ Communicating status to the team and flagging blockers
 
 [Receiving feedback graciously and learning from everything they do](/guides/giving-and-receiving-feedback.md)
 
-Understanding choices between technical debt vs delivery and can explain them
+[Understanding choices between technical debt vs delivery and can explain them](/guides/technical-debt-tradeoffs.md)
 
 
 
