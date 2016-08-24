@@ -20,11 +20,11 @@ Sharing learning with peers (e.g. through documentation, talks, etc)
 
 ## Regularly demonstrates ability in:
 
-[Producing production-ready code with assistance](junior/producing-production-ready-code-with-assistance.md)
+[Producing production-ready code with assistance](/junior/producing-production-ready-code-with-assistance.md)
 
 Owning their development plan
 
-Using [version control](guides/version-control.md) and [editors](guides/editors.md)
+Using [version control](/guides/version-control.md) and [editors](/guides/editors.md)
 
 Best practices in testing
 
@@ -36,7 +36,7 @@ Explaining ideas in a way that other people understand
 
 Communicating status to the team and flagging blockers
 
-[Receiving feedback graciously and learning from everything they do](guides/giving-and-receiving-feedback.md)
+[Receiving feedback graciously and learning from everything they do](/guides/giving-and-receiving-feedback.md)
 
 Understanding choices between technical debt vs delivery and can explain them
 
