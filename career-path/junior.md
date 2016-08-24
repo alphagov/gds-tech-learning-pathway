@@ -24,7 +24,7 @@ Sharing learning with peers (e.g. through documentation, talks, etc)
 
 Owning their development plan
 
-Using [version control](version-control.md) and editors
+Using [version control](guides/version-control.md) and [editors](guides/editors.md)
 
 Best practices in testing
 
