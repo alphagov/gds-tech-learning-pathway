@@ -36,7 +36,7 @@ Mid level means you should be:
 
 ### Role Specific
 
-- eveloper: is capable of [clean and correct code
-- Web operations engineer: capable of [building systems and infrastructure in a structured and documented wa
-- eveloper: understands the [concepts of programming, e.g. separation of concerns
-- eb operations engineer: understands the [concepts of system architecture
+- Developer: is capable of [clean and correct code]()
+- Web operations engineer: capable of [building systems and infrastructure in a structured and documented way]()
+- Developer: understands the [concepts of programming](), e.g. separation of concerns
+- Web operations engineer: understands the [concepts of system architecture]()
