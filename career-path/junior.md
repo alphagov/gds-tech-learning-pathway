@@ -36,7 +36,7 @@ Explaining ideas in a way that other people understand
 
 Communicating status to the team and flagging blockers
 
-[Receiving feedback graciously and learning from everything they do](junior/giving-and-receiving-feedback.md)
+[Receiving feedback graciously and learning from everything they do](guides/giving-and-receiving-feedback.md)
 
 Understanding choices between technical debt vs delivery and can explain them
 
