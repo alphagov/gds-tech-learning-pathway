@@ -8,6 +8,12 @@
 - Know which framework to use depending on the type of test
 - What makes a "good test"
 
+### Junior level
+
+### Mid level
+
+### Senior level
+
 
 ## Resources
 - [Testing microservices](http://martinfowler.com/articles/microservice-testing/) - infodeck from Thoughtworks which outlines the architectural principles of microservices and the various options and approaches 
