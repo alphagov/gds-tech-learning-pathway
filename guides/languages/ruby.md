@@ -1,6 +1,6 @@
 
-# Ruby
+## Ruby
 
-## Learning materials
+### Learning materials
 
-## Resources
+### Resources
