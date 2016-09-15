@@ -19,4 +19,6 @@ A well defined story will:
 
 ### Mid level
 
+At a more experienced level, we expect you to be able to lead on more complex stories.
+
 ### Senior level
