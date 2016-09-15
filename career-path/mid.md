@@ -11,7 +11,7 @@ Mid level means you should be:
 - Diagnosing and debugging production issues
 - [Working as part of a multi-disciplinary team to deliver stories] (/career-path/competencies/working-as-a-multi-disciplinary-team.md)
 - Estimating work, understanding relative complexity of different tasks (for your own work)
-- Leading on the production of complex stories which meet user needs to the necessary standards
+- [Leading on the production of complex stories] (/career-path/competencies/leading-on-stories.md) which meet user needs to the necessary standards
 - Taking the lead in a pair situation
 - [Sharing knowledge with others by blogging, writing guides, and giving tech talks] (/career-path/competencies/sharing-knowledge-with-others.md)
 - Participating in the design of technical features
