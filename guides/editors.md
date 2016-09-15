@@ -24,7 +24,8 @@ Examples of ways you can improve your workflow
 
 - Vim tutor
 - IntelliJ - https://github.com/tkurylek/intellij-idea-mouseless-kata
-- Sublime - https://www.sublimetext.com/
+- Sublime Text - https://www.sublimetext.com/
+- Atom - https://atom.io/
 
 ## Meta
 
