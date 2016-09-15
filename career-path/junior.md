@@ -22,7 +22,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 [Producing production-ready code with assistance](/career-path/competencies/producing-production-ready-code-with-assistance.md)
 
-Owning their development plan
+[Owning their development plan] (/career-path/competencies/owning-their-development-plan.md)
 
 Using [version control](/guides/version-control.md) and [editors](/guides/editors.md)
 
