@@ -1,5 +1,6 @@
 Some other possible sources of inspiration:
 
+- http://tommyp.org/junior-developer
 - https://github.com/thoughtbot/trail-map
 - https://github.com/yangchenyun/trail-map
 - http://railsbridgetriangle.com/resources/
