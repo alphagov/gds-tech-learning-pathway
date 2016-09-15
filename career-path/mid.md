@@ -7,7 +7,7 @@ Mid level means you should be:
 - Aware and guided by the wider context of your work
 - Helping to plan and ensure delivery
 - Finding opportunities to share information with colleagues and others
-- Taking responsibility for own work and development
+- Taking responsibility for own work and [development] (/career-path/competencies/owning-their-development-plan.md)
 - Diagnosing and debugging production issues
 - [Working as part of a multi-disciplinary team to deliver stories] (/career-path/competencies/working-as-a-multi-disciplinary-team.md)
 - Estimating work, understanding relative complexity of different tasks (for your own work)
