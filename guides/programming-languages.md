@@ -1,8 +1,8 @@
 
 ### Programming languages
 
-[Ruby] (guides/languages/ruby.md) on [Rails] (guides/languages/rails.md)
+[Ruby] (languages/ruby.md) on [Rails] (languages/rails.md)
 
-[Python] (guides/languages/python.md)
+[Python] (languages/python.md)
 
-[Java] (guides/languages/java.md)
+[Java] (languages/java.md)
