@@ -6,7 +6,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 ## Growing and learning as a junior developer
 
-Using a programming language
+[Using a programming language] (guides/programming-languages.md)
 
 [Leading on getting well defined tasks from backlog to production](/career-path/competencies/leading-on-stories.md)
 
