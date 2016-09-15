@@ -10,6 +10,8 @@
 
 ### Junior level
 
+At junior level, you will work with another developer who will help you with test driven development (TDD).
+
 ### Mid level
 
 ### Senior level
