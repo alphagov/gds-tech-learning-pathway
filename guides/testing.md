@@ -10,12 +10,12 @@
 
 ### Junior level
 
-At junior level, you will normally work with another more experienced developer who will help you with test driven development (TDD).
+At junior level, you will normally work with another more experienced developer who will help you with test driven development (TDD). With guidance you will learn what tests to write and how to make them pass. 
 
 A good test is generally defined to:
-- have a clear description so that any developer can understand it
+- have a clear description, so that any developer can understand it
 - carry out one expectation
-- have a useful error message so that the issue can be easily located
+- have a useful error message, so that the issue can be easily located
 
 ### Mid level
 
