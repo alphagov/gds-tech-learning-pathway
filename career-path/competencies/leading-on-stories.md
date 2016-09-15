@@ -19,6 +19,9 @@ A well defined story will:
 
 ### Mid level
 
-At a more experienced level, we expect you to be able to lead on more complex stories.
+At a more experienced level, we expect you to:
+- lead on more complex stories
+- decide which stories to prioritise over others
+- identify blockers, and the steps taken to try and unblock them 
 
 ### Senior level
