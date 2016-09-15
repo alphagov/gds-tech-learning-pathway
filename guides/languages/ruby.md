@@ -1,6 +1,32 @@
 
 ## Ruby
 
-### Learning materials
 
-### Resources
+### Starting out
+
+#### Which version?
+
+
+#### Working with Ruby Projects
+
+The dependencies are listed in a 'Gemfile'.
+
+
+#### Ruby Test Frameworks
+
+
+
+#### Additional Tools
+
+
+#### Reference documentation
+
+
+#### Learning materials
+
+
+
+#### Code style
+
+
+
