@@ -10,7 +10,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 [Leading on getting well defined tasks from backlog to production](/career-path/competencies/leading-on-stories.md)
 
-[Assisting getting complex tasks from concept to production] (/competencies/producing-production-ready-code-with-assistance.md)
+[Assisting getting complex tasks from concept to production] (/career-path/competencies/producing-production-ready-code-with-assistance.md)
 
 Working as part of a multi-disciplinary team to deliver stories
 
