@@ -10,7 +10,7 @@ Depending on the technology you're working with you may find the following guide
 
 - [Learn Rails](/guides/languages/rails.md)
 - [Learn Dropwizard](/guides/languages/dropwizard.md)
-- [Learn ython](/guides/languages/python.md)
-- [Learn ruby](/guides/languages/ruby.md)
-- [Learn java](/guides/languages/java.md)
+- [Learn Python](/guides/languages/python.md)
+- [Learn Ruby](/guides/languages/ruby.md)
+- [Learn Java](/guides/languages/java.md)
 
