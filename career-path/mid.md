@@ -9,7 +9,7 @@ Mid level means you should be:
 - Finding opportunities to share information with colleagues and others
 - Taking responsibility for own work and development
 - Diagnosing and debugging production issues
-- Working as part of a multi-disciplinary team to deliver stories
+- [Working as part of a multi-disciplinary team to deliver stories] (/career-path/competencies/working-as-a-multi-disciplinary-team.md)
 - Estimating work, understanding relative complexity of different tasks (for your own work)
 - Leading on the production of complex stories which meet user needs to the necessary standards
 - Taking the lead in a pair situation
