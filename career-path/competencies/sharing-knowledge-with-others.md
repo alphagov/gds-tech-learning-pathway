@@ -1,5 +1,6 @@
 
 ## Sharing knowledge with others
 
-- Through documentation
-- talks
+- Through writing documentation and guides
+- Talks
+- Writing blogs on what you have been working on
