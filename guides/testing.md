@@ -12,8 +12,10 @@
 
 At junior level, you will normally work with another more experienced developer who will help you with test driven development (TDD).
 
-A good test is generally defined as:
-- 
+A good test is generally defined to:
+- have a clear description so that any developer can understand it
+- carry out one expectation
+- have a useful error message so that the issue can be easily located
 
 ### Mid level
 
