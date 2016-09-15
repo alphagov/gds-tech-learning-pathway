@@ -19,6 +19,8 @@ A good test is generally defined to:
 
 ### Mid level
 
+- Lead in a pairing session, guiding a less experienced developer on writing good tests and making them pass
+- Refactoring tests, to ensure when new tests are added they are not duplicates of other current tests 
 
 ### Senior level
 
