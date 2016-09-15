@@ -12,7 +12,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 [Assisting getting complex tasks from concept to production] (/career-path/competencies/producing-production-ready-code-with-assistance.md)
 
-Working as part of a multi-disciplinary team to deliver stories
+[Working as part of a multi-disciplinary team to deliver stories] (/career-path/competencies/working-as-a-multi-disciplinary-team.md)
 
 Sharing learning with peers (e.g. through documentation, talks, etc)
 
