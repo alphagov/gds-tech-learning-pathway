@@ -8,9 +8,9 @@ Working with a more experience developer, produce code of a sufficient quality s
 
 Depending on the technology you're working with you may find the following guides helpful:
 
-- [Learn rails](/guides/rails.md)
-- [Learn drop wizard](/guides/drop-wizard.md)
-- [Learn python](/guides/python.md)
-- [Learn ruby](/guides/ruby.md)
-- [Learn java](/guides/java.md)
+- [Learn rails](/guides/languages/rails.md)
+- [Learn drop wizard](/guides/languages/drop-wizard.md)
+- [Learn python](/guides/languages/python.md)
+- [Learn ruby](/guides/languages/ruby.md)
+- [Learn java](/guides/languages/java.md)
 
