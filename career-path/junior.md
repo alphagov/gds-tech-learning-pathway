@@ -14,7 +14,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 [Working as part of a multi-disciplinary team to deliver stories] (/career-path/competencies/working-as-a-multi-disciplinary-team.md)
 
-Sharing learning with peers (e.g. through documentation, talks, etc)
+[Sharing learning with peers (e.g. through documentation, talks, etc)] (career-path/competencies/sharing-knowledge-with-others.md)
 
 
 
