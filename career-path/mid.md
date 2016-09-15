@@ -13,7 +13,7 @@ Mid level means you should be:
 - Estimating work, understanding relative complexity of different tasks (for your own work)
 - Leading on the production of complex stories which meet user needs to the necessary standards
 - Taking the lead in a pair situation
-- Sharing knowledge with others by blogging, writing guides, and giving tech talks
+- [Sharing knowledge with others by blogging, writing guides, and giving tech talks] (/career-path/competencies/sharing-knowledge-with-others.md)
 - Participating in the design of technical features
 - Making decisions based on data, both quantitative and qualitative
 
