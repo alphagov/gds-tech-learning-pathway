@@ -1,5 +1,5 @@
 
-### Programming languages
+# Programming languages
 
 [Ruby] (languages/ruby.md) on [Rails] (languages/rails.md)
 
