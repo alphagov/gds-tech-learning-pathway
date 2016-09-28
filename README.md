@@ -9,7 +9,11 @@ We want to:
 - elaborate the [technologists career pathways](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) in more detail, by creating a page for each competency statement in the career path
 - create a set of curated guides, organised by topic, technology, constiuency, level. There may be multiple cross-cutting routes into the resources. Our aim is to offer pathways which cater for the most important needs of technogists.
 
-## First steps
+## What is a competency statement?
+
+The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). Although it sounds a bit like beureaucratic jargon, the term "competency" is the best word we could think of to describe these statements.
+
+## Next steps
 
 For a first pass we are going to:
 
@@ -17,7 +21,19 @@ For a first pass we are going to:
   - describes in a little more detail that particular competency
   - links to guides which would help to learn that competency
 
-We also want to encourage learning collaboratively in community, and so we'll seek to provide ways for:
+## How to contribute
+
+We're using github issues to track people working on things. If you'd like to contribute a guide or a competency statement:
+
+1. open an issue to track the work. The title of the issue should say something like "Guide: java programming" or "Competency statement: Leading on getting well defined tasks from backlog to production". Add any notes you feel necessary in the body of the issue
+2. clone the repo and make a PR for the proposed changes
+3. ask in the [slack channel](https://govuk.slack.com/archives/tech-learning-path) for someone to review it
+
+If you're not sure about anything, come and ask in the [slack channel](https://govuk.slack.com/archives/tech-learning-path)
+
+## Longer term goals
+
+We want to encourage learning collaboratively in community, and so we'll seek to provide ways for:
 
 - people to offer and request mentorship
 - people to share what they're wanting to learn so that they can join up with others wanting to learn the same things, or get support from others
