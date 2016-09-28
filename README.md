@@ -11,7 +11,7 @@ We want to:
 
 ## What is a competency statement?
 
-The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). Although it sounds a bit like beureaucratic jargon, the term "competency" is the best word we could think of to describe these statements.
+The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). We call these competency statements.
 
 ## Next steps
 
