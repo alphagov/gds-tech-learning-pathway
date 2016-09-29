@@ -2,14 +2,14 @@
 
 ### The developers role
 
-Pair programming is an important practice for improving the rate at which development teams can deliver valuable high quality software.
+Pair programming is an important practice for delivering valuable, high quality software.
 
-When practiced effectively, it has a number of specific benefits:
+When it's done well, it has a number of benefits:
 
-- it helps to spread a common mental model of the design of the software
-- it improves the flow of work by increasing the speed of flow and reducing work-in-progress
+- it helps to spread a knowledge of the code and software design around the team
+- it improves the flow of work by reducing work-in-progress. Stories flow faster through the team, with less thrashing.
 
-## Elaboration of the benefits
+### A little bit of theory
 
 Why does having a common mental model help?
 Programming as theory building :-)
