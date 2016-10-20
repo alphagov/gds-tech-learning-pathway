@@ -29,9 +29,8 @@ projects using Ruby on Rails and a number using Sinatra.
 The main and reference implementation of Ruby is known as [MRI
 (Matz's Ruby Interpreter)][mri-wiki] and is the focus of this document.
 
-At the time of writing, using the current stable version of Ruby is a great
-choice to work with the language - which is/was 2.3.1. It is likely to remain
-fine to use the current stable version until 3.0 is released.
+At the time of writing, using the current stable version of Ruby 2 is a great
+choice to work with the language.
 
 Typically a Ruby developer may be working with a number of projects that may
 use different versions of Ruby thus most developers will use a tool such as
