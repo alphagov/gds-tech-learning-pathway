@@ -40,6 +40,58 @@ multiple versions of Ruby on their machine.
 It is unusual to need to use a Ruby version before 2.0 and there is little
 support for Ruby versions below 1.9.
 
+##### Setting up on macOS
+
+macOS ships with a version of Ruby pre-installed, you can run a Ruby script
+with: `$ /usr/bin/ruby script.rb` or enter the [REPL][repl] with
+`$ /usr/bin/irb` where you can execute Ruby code:
+
+```
+2.2.3 :001 > puts "Hello World"
+Hello World
+ => nil
+```
+
+###### Setting up rbenv with [Homebrew](http://brew.sh/)
+
+rbenv makes it easy to use newer versions of Ruby than the pre-installed
+version on MacOS and allows different versions of Ruby for different projects.
+
+[Homebrew](http://brew.sh/) is a very commonly used package manager for macOS
+that will build and install software.
+
+1. Install rbenv:
+
+        $ brew install rbenv
+
+2. Install [ruby-build](https://github.com/rbenv/ruby-build), which is a rbenv
+   plugin to add the ability to build ruby versions:
+
+        $ brew install ruby-build
+
+3. Update your `~/.bash_profile` (or `~/.zshrc` if you use [zsh][zsh]):
+
+        $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+
+4. Update your current shell environment:
+
+        $ source ~/.bash_profile
+
+5. Install your chosen version of Ruby:
+
+        $ rbenv install 2.3.1
+
+6. Specify that as the version you'd like to use for this directory/project:
+
+        $ rbenv local 2.3.1
+
+And if all has gone to plan running `$ ruby -v` should output the version you
+installed. eg:
+
+```
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin14]
+```
+
 #### Working with Ruby Projects
 
 Ruby projects regularly require dependencies, the de-facto method these are
@@ -125,3 +177,5 @@ interface with browser software to action them.
 [cucumber-collaboration]: https://cucumber.io/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool
 [capybara]: http://jnicklas.github.io/capybara/
 [rake]: https://github.com/ruby/rake
+[repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
+[zsh]: http://www.zsh.org/
