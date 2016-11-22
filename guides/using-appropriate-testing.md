@@ -26,6 +26,6 @@ Testing guides:
 
 Language-specific guides:
 
-- [Testing in Ruby](/guides/rails.md)
-- [Testing in Java](/guides/drop-wizard.md)
+- [Testing in Ruby](/guides/ruby.md)
+- [Testing in Java](/guides/java.md)
 - [Testing in Python](/guides/python.md)
