@@ -2,9 +2,9 @@
 # Junior
 
 
-Entry level role.  Is likely to be their first or second job in the industry, and their first experience working with large codebases or with large teams.
+Entry level role.  Is likely to be their first or second job in the industry, and their first experience working with large codebases, large systems or with large teams.
 
-## Growing and learning as a junior developer
+## Growing and learning as a junior technologist
 
 [Using a programming language] (/guides/programming-languages.md)
 
