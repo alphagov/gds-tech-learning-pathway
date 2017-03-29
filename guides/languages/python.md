@@ -33,6 +33,7 @@ Python comes with a built in test framework, [unittest](https://docs.python.org/
 
 - [PyCharm](https://www.jetbrains.com/pycharm/) is a python-focused IDE from Jetbrains
 - [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) is an easier way of working with virtualenvs
+- [Visual Studio Code](https://code.visualstudio.com/) for a fast lightweight IDE, python plugins available
 
 #### Reference documentation
 * [Python 2 Reference](http://docs.python.org/2/)
@@ -45,6 +46,10 @@ Python comes with a built in test framework, [unittest](https://docs.python.org/
 - [Python Koans](https://github.com/gregmalcolm/python_koans) teaches Python in bitesize chunks using TDD
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/) (for people new to programming)
 - [Python Programming FAQ](https://docs.python.org/3/faq/programming.html)
+- [Writing Great Python Code](http://docs.python-guide.org/en/latest/#writing-great-python-code)
+- [Beyond PEP 8 -- Best practices for beautiful intelligible code (PyCon 2015)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- [Learning Python on the move in bitesized chunks via mobile apps](https://www.sololearn.com/Course/Python/)
+- [Plural Sight video tutorials (requires subscription)](https://www.pluralsight.com/browse/software-development/python)
 
 ### Writing idiomatic Python
 #### The Zen of Python
@@ -82,7 +87,3 @@ The authoritative style guide for python is [PEP8](http://pep8.org/).
 
 You can automatically detect style violations with a tool such as [Flake8](http://flake8.pycqa.org/en/latest/) or [Pylint](https://www.pylint.org/).
 
-#### Learning materials
-
-- [Writing Great Python Code](http://docs.python-guide.org/en/latest/#writing-great-python-code)
-- [Beyond PEP 8 -- Best practices for beautiful intelligible code (PyCon 2015)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
