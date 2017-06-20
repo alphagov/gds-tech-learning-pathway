@@ -6,15 +6,15 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 ## Growing and learning as a junior technologist
 
-[Using a programming language] (/guides/programming-languages.md)
+[Using a programming language](/guides/programming-languages.md)
 
 [Leading on getting well defined tasks from backlog to production](/career-path/competencies/leading-on-stories.md)
 
-[Assisting getting complex tasks from concept to production] (/career-path/competencies/producing-production-ready-code-with-assistance.md)
+[Assisting getting complex tasks from concept to production](/career-path/competencies/producing-production-ready-code-with-assistance.md)
 
-[Working as part of a multi-disciplinary team to deliver stories] (/career-path/competencies/working-as-a-multi-disciplinary-team.md)
+[Working as part of a multi-disciplinary team to deliver stories](/career-path/competencies/working-as-a-multi-disciplinary-team.md)
 
-[Sharing learning with peers (e.g. through documentation, talks, etc)] (/career-path/competencies/sharing-knowledge-with-others.md)
+[Sharing learning with peers (e.g. through documentation, talks, etc)](/career-path/competencies/sharing-knowledge-with-others.md)
 
 
 
@@ -22,7 +22,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 [Producing production-ready code with assistance](/career-path/competencies/producing-production-ready-code-with-assistance.md)
 
-[Owning their development plan] (/career-path/competencies/owning-their-development-plan.md)
+[Owning their development plan](/career-path/competencies/owning-their-development-plan.md)
 
 Using [version control](/guides/version-control.md) and [editors](/guides/editors.md)
 
