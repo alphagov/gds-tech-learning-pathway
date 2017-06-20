@@ -3,12 +3,12 @@
 
 ## General purpose languages
 
-[Ruby] (languages/ruby.md)
+[Ruby](languages/ruby.md)
 
-[Python] (languages/python.md)
+[Python](languages/python.md)
 
-[Java] (languages/java.md)
+[Java](languages/java.md)
 
 ## Infrastructure as code
 
-[Puppet] (languages/puppet.md)
+[Puppet](languages/puppet.md)
