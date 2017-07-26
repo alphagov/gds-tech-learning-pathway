@@ -6,8 +6,15 @@ This repo exists to bring together the GDS Technology community's collective kno
 
 We want to:
 
-- elaborate the [technologists career pathways](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) in more detail, by creating a page for each competency statement in the career path
 - create a set of curated guides, organised by topic, technology, constituency, level. There may be multiple cross-cutting routes into the resources. Our aim is to offer pathways which cater for the most important needs of technologists.
+- elaborate the current [technologists career pathways within GDS](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) in more detail, by creating a page for each competency statement in the career path.
+- prepare for adopting the [DDaT career pathways within GDS](https://www.gov.uk/government/collections/digital-data-and-technology-job-roles-in-government#technical:-software-developer-) by documenting our current career pathway in more detail.
+
+## Status
+
+This repository is an early draft.  We are working to get the structure right, and will then be focussing on the learning at Junior level before trying to elaborate it.
+
+Contributions are welcome in the form of PRs.
 
 ## What is a competency statement?
 
@@ -19,7 +26,9 @@ For a first pass we are going to:
 
 - create a page for [each competency statement](/career-path/competencies/) on the technologist career path which:
   - describes in a little more detail that particular competency
+  - describes the expectation at each level of expertise
   - links to guides which would help to learn that competency
+- test whether this is helpful for Juniors in learning
 
 ## How to contribute
 
