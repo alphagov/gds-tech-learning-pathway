@@ -1,6 +1,6 @@
 # GDS Technology Community - Learning Pathways
 
-This repo exists to bring together the GDS Technology community's collective knowledge and resources to support the learning and development of technologists.
+This repository exists to bring together the GDS Technology community's collective knowledge and resources to support the learning and development of technologists.
 
 ## Goals
 
