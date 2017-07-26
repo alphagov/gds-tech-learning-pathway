@@ -14,7 +14,7 @@ We want to:
 
 This repository is an early draft.  We are working to get the structure right, and will then be focussing on the learning at Junior level before trying to elaborate it.
 
-Contributions are welcome in the form of PRs.
+[Contributions](CONTRIBUTING.md) are welcome in the form of PRs.
 
 ## What is a competency statement?
 
@@ -32,13 +32,7 @@ For a first pass we are going to:
 
 ## How to contribute
 
-We're using github issues to track people working on things. If you'd like to contribute a guide or a competency statement:
-
-1. open an issue to track the work. The title of the issue should say something like "Guide: java programming" or "Competency statement: Leading on getting well defined tasks from backlog to production". Add any notes you feel necessary in the body of the issue
-2. clone the repo and make a PR for the proposed changes
-3. ask in the [slack channel](https://govuk.slack.com/archives/tech-learning-path) for someone to review it
-
-If you're not sure about anything, come and ask in the [slack channel](https://govuk.slack.com/archives/tech-learning-path)
+see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Longer term goals
 
