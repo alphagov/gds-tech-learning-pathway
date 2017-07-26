@@ -20,7 +20,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 ## Regularly demonstrates ability in:
 
-[Producing production-ready code with assistance](/career-path/competencies/producing-production-ready-code-with-assistance.md)
+[Producing production-ready code](/career-path/competencies/producing-production-ready-code-with-assistance.md) with assistance
 
 [Owning their development plan](/career-path/competencies/owning-their-development-plan.md)
 
