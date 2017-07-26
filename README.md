@@ -36,7 +36,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Longer term goals
 
-We want to encourage learning collaboratively in community, and so we'll seek to provide ways for:
+We want to encourage learning collaboratively in the GDS technology community, and so we'll seek to provide ways for:
 
 - people to offer and request mentorship
 - people to share what they're wanting to learn so that they can join up with others wanting to learn the same things, or get support from others
