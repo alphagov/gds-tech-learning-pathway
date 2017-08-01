@@ -4,6 +4,12 @@ Version control facilitates collaboration amongst a team working on a shared cod
 
 Version control also allows for controlled testing and deployment of known software versions, which is an essential part of any reliable quality control process. Nowadays this will typically be in the form of a continuous integration/continuous deployment pipeline.
 
+## Coding in the open at GDS
+
+At GDS we use Github to store our git repositories and review work in progress.
+Most of our source code is open to the public.
+
+[The GDS technical guidance manual documents how we manage our source code repositories.](https://gds-tech-docs.cloudapps.digital/standards/source-code.html#source-code)
 
 ## What you should be able to do
 
@@ -21,7 +27,7 @@ Version control also allows for controlled testing and deployment of known softw
 - Open a pull request
 - Understand what rebasing is
 - Understand when it is necessary to force push (and when NOT to :-))
-- Understand the git styleguide
+- Understand the [git styleguide](https://github.com/alphagov/styleguides/blob/master/git.md)
 
 We’d expect a Junior developer to be able to do all of these things.
 
@@ -34,9 +40,6 @@ We’d expect a Junior developer to be able to do all of these things.
 - Understand git hooks and when to use them
 
 ## Resources
-- Guide to git - basic commands and concepts like 
+- Guide to git - basic commands and concepts like
 - Why we do code reviews; why pull requests
-- Git styleguide (https://github.com/alphagov/styleguides/blob/master/git.md)
-
-
-
+- [Our Git styleguide](https://github.com/alphagov/styleguides/blob/master/git.md)

@@ -12,3 +12,9 @@ contribute a guide or a competency statement:
 
 If you're not sure about anything, email us at gds-tech-learning-path-discuss (at) digital.cabinet-office.gov.uk to ask.
 
+### What should go in a guide
+
+* Cover a single topic, and consider splitting guides that are too long.
+* It's ok to be opinionated, but aim to acknowledge multiple approaches where possible.
+* Introduce the topic, mentioning any assumed knowledge at the start.
+* Don't use a guide to document technical decisions or conventions we follow within GDS. Instead link to something canonical like the [GDS Technical Guidance](https://gds-tech-docs.cloudapps.digital/#gds-technical-guidance).
