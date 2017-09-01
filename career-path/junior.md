@@ -26,7 +26,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 Using [version control](/guides/version-control.md) and [editors](/guides/editors.md)
 
-[Best practices in testing](/guides/testing.md)
+[Best practices in testing](/career-path/competencies/using-testing-to-validate-solutions.md#junior-level)
 
 Showing awareness of the wider tech community
 
@@ -39,6 +39,3 @@ Communicating status to the team and flagging blockers
 [Receiving feedback graciously and learning from everything they do](/guides/giving-and-receiving-feedback.md)
 
 [Understanding choices between technical debt vs delivery and can explain them](/guides/technical-debt-tradeoffs.md)
-
-
-
