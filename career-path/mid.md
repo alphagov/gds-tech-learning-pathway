@@ -20,7 +20,7 @@ Mid level means you should be:
 ### Skills
 
 - Using a systematic approach to solving problems
-- [Validating solutions to problems by using appropriate testing](/career-path/competencies/using-testing-to-validate-solutions.md#mid-level)
+- [Validating solutions to problems by using appropriate testing](/career-path/competencies/using-appropriate-testing-to-ensure-software-quality.md#mid-level)
 - Using version control effectively to manage code and document changes
 - Making pragmatic decisions to minimise technical debt
 - Knowledge of common performance issues and the necessary tooling to profile them
