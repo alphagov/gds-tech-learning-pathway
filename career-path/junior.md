@@ -26,7 +26,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 Using [version control](/guides/version-control.md) and [editors](/guides/editors.md)
 
-[Best practices in testing](/career-path/competencies/using-testing-to-validate-solutions.md#junior-level)
+Best practices in [testing](/career-path/competencies/using-appropriate-testing-to-ensure-software-quality.md#junior-level)
 
 Showing awareness of the wider tech community
 
