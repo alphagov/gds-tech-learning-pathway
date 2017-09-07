@@ -25,7 +25,7 @@ pairing with other juniors is encouraged to help juniors support and learn from
 each other.
 
 There is a spreadsheet of suggested 20% time projects
-(https://docs.google.com/spreadsheets/d/115ZyXsAljiZxO_UmI2ruT81i3TsU_gIxeesv62qNJAQ/edit#gid=887531206).
+(https://docs.google.com/spreadsheets/d/1Nrt4oZEMYZR_54SdKApzNrBDKgxafIiPpQSfb3taUDE/edit#gid=492186728).
 
 You should discuss the project with your line manager before starting on it.
 
