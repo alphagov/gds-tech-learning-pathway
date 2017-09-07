@@ -27,7 +27,7 @@ Mid level means you should be:
 - Understanding of security attack vectors and how to mitigate common security threats
 - Owning your own [development plan](/career-path/competencies/owning-their-development-plan.md) and identifying areas you need to improve
 - Communicating and giving feedback to team/managers in a useful way, keeping people up to speed with progress
-- Involving others with relevant skills/domain knowledge when required to ensure quality
+- [Involving others with relevant skills/domain knowledge when required to ensure quality](/career-path/competencies/knowing-when-to-ask-for-help.md)
 - Communicating assumptions and getting clarification on tasks upfront to minimise the need for rework
 - Prioritising your time; not getting caught up in unnecessary details
 - Understanding how their work fits within bigger projects and organisation goals
