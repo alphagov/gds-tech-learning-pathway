@@ -30,7 +30,7 @@ Best practices in [testing](/career-path/competencies/using-appropriate-testing-
 
 Showing awareness of the wider tech community
 
-Knowing when to ask for help in areas they are unsure of
+[Knowing when to ask for help](/career-path/competencies/knowing-when-to-ask-for-help.md) in areas they are unsure of
 
 Explaining ideas in a way that other people understand
 
