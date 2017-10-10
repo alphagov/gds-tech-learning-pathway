@@ -6,7 +6,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 ## Growing and learning as a junior technologist
 
-[Using a programming language](/guides/programming-languages.md)
+[Using a programming language](/resources/programming-languages.md)
 
 [Leading on getting well defined tasks from backlog to production](/career-path/competencies/leading-on-stories.md)
 
@@ -24,7 +24,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 [Owning their development plan](/career-path/competencies/owning-their-development-plan.md)
 
-Using [version control](/guides/version-control.md) and [editors](/guides/editors.md)
+Using [version control](/resources/version-control.md) and [editors](/resources/editors.md)
 
 Best practices in [testing](/career-path/competencies/using-appropriate-testing-to-ensure-software-quality.md#junior-level)
 
@@ -36,6 +36,6 @@ Explaining ideas in a way that other people understand
 
 Communicating status to the team and flagging blockers
 
-[Receiving feedback graciously and learning from everything they do](/guides/giving-and-receiving-feedback.md)
+[Receiving feedback graciously and learning from everything they do](/resources/giving-and-receiving-feedback.md)
 
-[Understanding choices between technical debt vs delivery and can explain them](/guides/technical-debt-tradeoffs.md)
+[Understanding choices between technical debt vs delivery and can explain them](/resources/technical-debt-tradeoffs.md)
