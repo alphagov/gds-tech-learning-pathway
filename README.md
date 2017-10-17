@@ -10,15 +10,27 @@ We want to:
 - elaborate the current [technologists career pathways within GDS](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) in more detail, by creating a page for each competency statement in the career path.
 - prepare for adopting the [DDaT career pathways within GDS](https://www.gov.uk/government/collections/digital-data-and-technology-job-roles-in-government#technical:-software-developer-) by documenting our current career pathway in more detail.
 
+## Contents
+### Career path
+The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). We call these competency statements.
+
+Each one should have its own page in this repository, covering what you need to do at each level.
+
+Each level has its own list of relevant competency statements derived from the career path:
+- [Junior](/career-path/junior.md)
+- [Mid-level](/career-path/junior.md)
+- [Senior](/career-path/junior.md)
+
+### Resource lists
+[Resource lists](/resources) are lists of resources about a specific topic or technology.
+
+To make it easier to keep these up to date, we'd prefer to link out to external resources as much as possible, rather than authoring content in this repository. Resource lists should tell you how to get started with something, and signpost resources which help you learn more about it.
+
 ## Status
 
 This repository is an early draft.  We are working to get the structure right, and will then be focussing on the learning at Junior level before trying to elaborate it.
 
 [Contributions](CONTRIBUTING.md) are welcome in the form of PRs.
-
-## What is a competency statement?
-
-The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). We call these competency statements.
 
 ## Next steps
 

@@ -45,7 +45,7 @@ You should understand different types of testing and when to use them, for examp
 
 ### Resources
 #### Approaches
-- [Test driven development](/guides/tdd.md)
+- [Test driven development](/resources/tdd.md)
 - [GOV.UK Whitehall Publisher testing guide](https://github.com/alphagov/whitehall/blob/master/docs/testing.md) some good guidance on testing rails apps
 - [Testing and Checking refined](http://www.satisfice.com/blog/archives/856)
 

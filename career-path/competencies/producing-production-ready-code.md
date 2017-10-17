@@ -19,8 +19,8 @@ Working with a more experience developer, produce code of a sufficient quality s
 
 Depending on the technology you're working with you may find the following guides helpful:
 
-- [Learn Rails](/guides/frameworks/rails.md)
-- [Learn Dropwizard](/guides/languages/dropwizard.md)
-- [Learn Python](/guides/languages/python.md)
-- [Learn Ruby](/guides/languages/ruby.md)
-- [Learn Java](/guides/languages/java.md)
+- [Learn Rails](/resources/frameworks/rails.md)
+- [Learn Dropwizard](/resources/languages/dropwizard.md)
+- [Learn Python](/resources/languages/python.md)
+- [Learn Ruby](/resources/languages/ruby.md)
+- [Learn Java](/resources/languages/java.md)
