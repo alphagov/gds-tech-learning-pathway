@@ -6,7 +6,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 ## Growing and learning as a junior technologist
 
-[Using a programming language](/resources/programming-languages.md)
+[Technical proficiency: Using a programming language](/career-path/compentencies/technical-proficiency.md#junior)
 
 [Leading on getting well defined tasks from backlog to production](/career-path/competencies/leading-on-stories.md)
 
@@ -20,7 +20,7 @@ Entry level role.  Is likely to be their first or second job in the industry, an
 
 ## Regularly demonstrates ability in:
 
-[Producing production-ready code](/career-path/competencies/producing-production-ready-code.md) with assistance
+[Technical proficiency: Producing production-ready code](/career-path/competencies/technical-proficiency.mdproducing-production-ready-code.md) with assistance
 
 [Owning their development plan](/career-path/competencies/owning-their-development-plan.md)
 

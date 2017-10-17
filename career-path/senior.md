@@ -2,7 +2,7 @@
 
 Senior level means you should be:
 
-- Proficient in a wide range of technical systems, involved in selecting technology, approaches, and designing systems.
+- [Technical proficiency: wide range, designing systems](/career-path/competencies/technical-proficiency#senior)
 
 - Leading teams to make the appropriate tradeoffs to ensure delivery, and helps others to deliver.
 
