@@ -2,7 +2,7 @@
 
 Building software systems is complex. Nobody knows all the answers. Don't be afraid to ask!
 
-We work in collaborative multi-disciplenary teams so that we can combine our diverse skills and knowldege. Even very experienced people rely on input from others. There's no shame in asking if you're not sure about something, if you didn't understand or if you want a second opinion.
+We work in collaborative multi-disciplinary teams so that we can combine our diverse skills and knowledge. Even very experienced people rely on input from others. There's no shame in asking if you're not sure about something, if you didn't understand or if you want a second opinion.
 
 It's usually better to ask for help than to struggle away on your own trying to figure something out.
 
@@ -14,7 +14,7 @@ Knowing when and how to ask for help. Developing a [growth mindset](https://www.
 
 ### How do I learn/get good at it?
 
-Practice! Ask questions! But also reflect upon how effective your question-asking has been. Perhaps you need to do some research first? Maybe it's better to put your question in writing and then talk it through? Do you need to reproduce or isolate a problem so that you can show it to someone else?
+Practice! Ask questions! But also reflect upon how effective your question-asking has been. Perhaps you need to do some research first? Maybe it's better to put your question in writing and then talk it through? Are you a visual person, do diagrams help? Do you need to reproduce or isolate a problem so that you can show it to someone else?
 
 ### Junior level
 
