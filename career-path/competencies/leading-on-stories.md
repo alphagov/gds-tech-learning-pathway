@@ -10,7 +10,7 @@ You should take responsibility for:
 
 ### Junior level
 
-At junior level, you will be given support to work on user stories. You will normally work in a pair with a more experienced developer. You may be asked to take the lead on well defined stories. 
+At junior level, you will be given support to work on user stories. You will normally work in a pair with a more experienced developer. You may be asked to take the lead on well defined stories - [see an example](../../resources/user-story-template.md).
 
 A well defined story will:
 
@@ -21,7 +21,8 @@ A well defined story will:
 
 At a more experienced level, we expect you to:
 - lead on more complex stories
+- support juniors and new starters in your team through pairing and providing guidance on delivering stories
 - decide which stories to prioritise over others
-- identify blockers, and the steps taken to try and unblock them 
+- identify blockers, and the steps taken to try and unblock them
 
 ### Senior level
