@@ -19,7 +19,9 @@ your line manager.
 You will probably have broad goals in your development plan as you become familiar
 with the large surface area of modern development and web/dev ops.
 
-As a junior you have 20% time to work on a project that is non-delivery related
+As a junior you have 20% time where you can focus on things that will help your development such as tutorials, books and projects.
+
+You also have the opportunity to to work on a project that is non-delivery related
 but benefits GDS. A 20% project should have some specific learning outcomes and
 pairing with other juniors is encouraged to help juniors support and learn from
 each other.
