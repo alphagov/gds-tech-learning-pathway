@@ -1,0 +1,13 @@
+version: 2
+jobs:
+  build:
+    machine:
+      ruby:
+        version: 2.4.1
+    steps:
+      - checkout
+      - run:
+          name: Check for dead links
+          command: |
+              gem install awesome_bot
+              awesome_bot --allow-dupe --allow-redirect `find . -name '*.md'`
