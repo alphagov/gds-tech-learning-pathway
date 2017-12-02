@@ -51,7 +51,7 @@ across a network.
 
 [Documentation](https://www.gnu.org/software/inetutils/manual/inetutils.html#traceroute-invocation)
 
-### [iproute2](https://wiki.linuxfoundation.org/networking/iproute2)
+### [iproute2](https://web.archive.org/web/20170704194650/https://wiki.linuxfoundation.org/networking/iproute2)
 
 Provides the `ip` command, that can be used to find out about network
 interfaces and many other things when using Linux.

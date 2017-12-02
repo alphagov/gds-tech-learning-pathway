@@ -18,7 +18,7 @@ a tutorial you are following uses an older version.
 #### Learning materials
 
 # TODO: follow this tutorial with 4.x and make sure it still works
-- [A tutorial](http://www.pindi.us/blog/getting-started-puppet) that explains
+- [A tutorial](https://web.archive.org/web/20170507015216/http://www.pindi.us:80/blog/getting-started-puppet) that explains
   why you might want to use puppet and guides you through a getting started
   task. Old, but covers basics that haven't changed in newer versions.
 - The [puppet cookbook](https://www.puppetcookbook.com/) has good examples of
