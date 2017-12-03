@@ -20,8 +20,8 @@ Each one should have its own page in this repository, covering what you need to 
 
 Each level has its own list of relevant competency statements derived from the career path:
 - [Junior](/career-path/junior.md)
-- [Mid-level](/career-path/junior.md)
-- [Senior](/career-path/junior.md)
+- [Mid-level](/career-path/mid.md)
+- [Senior](/career-path/senior.md)
 
 ### Resource lists
 [Resource lists](/resources) are lists of resources about a specific topic or technology.
