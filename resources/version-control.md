@@ -43,3 +43,4 @@ We’d expect a Junior developer to be able to do all of these things.
 - Guide to git - basic commands and concepts like
 - Why we do code reviews; why pull requests
 - [Our Git styleguide](https://github.com/alphagov/styleguides/blob/master/git.md)
+- https://github.com/k88hudson/git-flight-rules
