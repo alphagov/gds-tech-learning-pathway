@@ -11,3 +11,7 @@ contribute a guide or a competency statement:
 * since this guide is public, please avoid any personally identifiable information in any contributions
 
 If you're not sure about anything, email us at gds-tech-learning-path-discuss (at) digital.cabinet-office.gov.uk to ask.
+
+## Awesome_bot
+
+[Awesome_bot](https://github.com/dkhamsing/awesome_bot) scans all markdown files for dead links, including relative links. If it finds any, the CircleCI build will fail.
