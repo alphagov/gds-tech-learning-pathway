@@ -14,7 +14,7 @@ somewhat slow performing language [compared to others][ruby-go-comparison] -
 however Rubyists argue that [Ruby is fast enough][ruby-fast-enough].
 
 Ruby came to popularity with the rise in popularity of the
-[Ruby on Rails](../frameworks/rails.md) web framework. Other popular Ruby projects are
+[Ruby on Rails](/resources/frameworks/rails.md) web framework. Other popular Ruby projects are
 [Sinatra](http://www.sinatrarb.com/), [Jekyll](https://jekyllrb.com/),
 [Puppet](https://puppet.com/), [Capistrano](http://capistranorb.com/) and
 [SASS](http://sass-lang.com/).
