@@ -10,4 +10,4 @@ jobs:
           name: Check for dead links
           command: |
               gem install awesome_bot
-              awesome_bot --allow-dupe --allow-redirect `find . -name '*.md'`
+              awesome_bot --allow-dupe --allow-redirect `find . -name '*.md'` --base-url 'https://github.com/alphagov/gds-tech-learning-pathway/blob/master'
