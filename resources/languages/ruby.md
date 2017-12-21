@@ -14,7 +14,7 @@ somewhat slow performing language [compared to others][ruby-go-comparison] -
 however Rubyists argue that [Ruby is fast enough][ruby-fast-enough].
 
 Ruby came to popularity with the rise in popularity of the
-[Ruby on Rails](../frameworks/rails.md) web framework. Other popular Ruby projects are
+[Ruby on Rails](/resources/frameworks/rails.md) web framework. Other popular Ruby projects are
 [Sinatra](http://www.sinatrarb.com/), [Jekyll](https://jekyllrb.com/),
 [Puppet](https://puppet.com/), [Capistrano](http://capistranorb.com/) and
 [SASS](http://sass-lang.com/).
@@ -69,9 +69,11 @@ that will build and install software.
 
         $ brew install ruby-build
 
-3. Update your `~/.bash_profile` (or `~/.zshrc` if you use [zsh][zsh]):
+3. Update your `~/.bash_profile`:
 
         $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+
+   If you use [zsh][zsh], update  `~/.zshrc` instead.
 
 4. Update your current shell environment:
 
