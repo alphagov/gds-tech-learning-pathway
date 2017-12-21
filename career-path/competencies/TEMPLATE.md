@@ -11,19 +11,14 @@ How does it relate to your role and responsibilities?
 ### Junior level
 
 [What it looks like at junior level.]
+[Links to resources (in the repo)]
 
 ### Mid level
 
 [What it looks like at mid level.]
+[Links to resources (in the repo)]
 
 ### Senior level
 
 [What it looks like at senior level.]
-
-### Related guides [optional]
-
-[Links to guides on topics related to this competency]
-
-### External Resources [optional]
-
-[Links to external resources]
+[Links to resources (in the repo)]
