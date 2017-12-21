@@ -69,9 +69,11 @@ that will build and install software.
 
         $ brew install ruby-build
 
-3. Update your `~/.bash_profile` (or `~/.zshrc` if you use [zsh][zsh]):
+3. Update your `~/.bash_profile`:
 
         $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+
+   If you use [zsh][zsh], update  `~/.zshrc` instead.
 
 4. Update your current shell environment:
 
