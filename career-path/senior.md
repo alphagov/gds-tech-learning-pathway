@@ -2,15 +2,15 @@
 
 Senior level means you should be:
 
-- Proficient in a wide range of technical systems, involved in selecting technology, approaches, and designing systems.
+- Proficient in a wide range of technical systems, involved in selecting technology, approaches, and designing systems
 
-- Leading teams to make the appropriate tradeoffs to ensure delivery, and helps others to deliver.
+- Leading teams to make the appropriate tradeoffs to ensure delivery, and helps others to deliver
 
-- Widely visible internally and externally talking about work and technical issues, people seek them out for help and advice.
+- Widely visible internally and externally talking about work and technical issues, people seek them out for help and advice
 
-- Helping to develop others, improving the structure of the department and performing long term planning.
+- Helping to develop others, improving the structure of the department and performing long term planning
 
-- A role model for technical culture and constructive communication.
+- A role model for technical culture and constructive communication
 
 - Evaluating different means of technical tooling, e.g. documents store versus relational databases or choosing Make or Grunt for front-end builds
 
@@ -64,7 +64,7 @@ A senior developer should demonstrate strong skills and ability to mentor others
 
 - Considering resilience, performance, and failure modes when designing systems, and understands how to validate those concerns
 
-- End to end responsibility on projects of increasing complexity, contributes to common code.
+- End to end responsibility on projects of increasing complexity, contributes to common code
 
 - Balancing need for precision against deadlines
 
@@ -72,7 +72,7 @@ A senior developer should demonstrate strong skills and ability to mentor others
 
 - Helping colleagues with their career development, finding ways to improve the capabilities of developer colleagues, e.g. tech talks, mentoring
 
-- Persistent in the face of roadblocks; dispatches them efficiently, pulling in others as necessary.
+- Persistent in the face of roadblocks; dispatches them efficiently, pulling in others as necessary
 
 ## Role Specific
 
