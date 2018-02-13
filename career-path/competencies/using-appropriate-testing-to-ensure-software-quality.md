@@ -49,6 +49,7 @@ You should understand different types of testing and when to use them, for examp
 - [Testing and Checking refined](http://www.satisfice.com/blog/archives/856)
 
 #### Writing good tests
+- [GeePaw Hill on TDD](http://geepawhill.org/five-underplayed-premises-of-tdd-2/)
 - [A quick puzzle to test your problem solving](https://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?mcubz=3) - this shows why it can be hard to write effective tests
 - [Testing microservices](http://martinfowler.com/articles/microservice-testing/) - infodeck from Thoughtworks which outlines the architectural principles of microservices and the various options and approaches
 - Kent Beck (the creator of TDD) - ["I get paid for code that works, not tests, so I test just enough to get the desired level of confidence"](http://stackoverflow.com/questions/153234/how-deep-are-your-unit-tests/153565#153565)
