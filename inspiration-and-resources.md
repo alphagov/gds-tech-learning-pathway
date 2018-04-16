@@ -9,3 +9,4 @@ Some other possible sources of inspiration:
 - https://twitter.github.io/scala_school/ - Twitter's pathway for learning scala from the ground up
 - https://www.google.com/about/careers/students/guide-to-technical-development.html - Google's guide for getting hired as a comp-sci graduate
 - http://matt.might.net/articles/what-cs-majors-should-know/ - One of many "everyone should know know this" lists. Not all of it is relevant, but covers technical subjects people might be interested in learning.
+- https://levels.patreon.com/ - Patreon's Engineering Levels
