@@ -19,10 +19,39 @@ A well defined story will:
 
 ### Mid level
 
-At a more experienced level, we expect you to:
+At mid level, we expect you to:
 - lead on more complex stories
 - support juniors and new starters in your team through pairing and providing guidance on delivering stories
 - decide which stories to prioritise over others
 - identify blockers, and the steps taken to try and unblock them
 
 ### Senior level
+
+At senior level you will lead on larger pieces of work which may involve multiple stories or tasks. This doesn't mean you have to do everything yourself, but you should have end to end responsibility for delivering the work.
+
+This could involve:
+
+- working with the tech lead and the rest of the team to agree scope and identify risks to delivery early on
+- creating well defined stories for other developers to pick up or suggesting an approach to take
+- helping to resolve blockers
+- making sure code gets code reviewed quickly
+- doing a timeboxed investigation (spike) into a problem area
+
+### As a tech lead (any level)
+
+If you are a tech lead, you will work closely with the product manager and delivery manager to make sure that work is ready for other developers to pick up; for example, by working with the team to break down stories into smaller tasks.
+
+You'll be responsible for ensuring that the development work is aligned with the team's goals, while
+maintaining technical standards. This may involve:
+
+- Working with PM/DM to get tech debt prioritised
+- Advising team members on technical implementation
+- Working with Tech Archs and other stakeholders (e.g. sec-ops & SRE) to make sure proposed solutions are appropriate
+
+As a tech lead, you shouldn't try to do everything yourself, even if it's easier. This is not sustainable in the long term and takes learning opportunities away from other developers on the team.
+
+The tech lead can also be a tie-breaker - if your team is having trouble making a decision, make the call.
+
+### External resources
+
+- The Verify team manual has a useful section on the role of the tech lead (which the above section is based on).
