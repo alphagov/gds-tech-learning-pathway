@@ -11,15 +11,43 @@ working on are easy to support and operate.
 
 ### Junior level
 
-#### You should be able to:
+Working with a more experienced developer, you should be able to produce code of a sufficient quality standard to ship to production.
 
-Working with a more experience developer, produce code of a sufficient quality standard to ship to production
+You should:
 
-#### Useful resources
+- be familiar with the language and tools your team uses.
+- follow coding conventions/styleguides for your language
+- understand that code is read more often that it is written
+- prefer to refactor and reuse code rather than duplicating it
+- [use automated testing](/career-path/competencies/using-appropriate-testing-to-ensure-software-quality.md)
 
-Depending on the technology you're working with you may find the following guides helpful:
+### Mid level
 
-- [Learn Rails](/resources/frameworks/rails.md)
-- [Learn Python](/resources/languages/python.md)
-- [Learn Ruby](/resources/languages/ruby.md)
-- [Learn Java](/resources/languages/java.md)
+You should be able to reliably produce production ready code without assistance.
+
+When working on stories you should consider non-functional requirements, such as performance
+and security. If you are working on the frontend, you should also be aware of common accessibility
+issues.
+
+You should be able to deploy and operate your software in production.
+
+### Senior level
+
+Your code must be flawless and never break*
+
+*not really
+
+### External resources
+
+Depending on the technology you're working with you may find the following resource lists helpful:
+
+- [Python](/resources/languages/python.md)
+- [Ruby](/resources/languages/ruby.md)
+- [Rails](/resources/frameworks/rails.md)
+- [Java](/resources/languages/java.md)
+- [Node.js](/resources/frameworks/nodejs.md)
+
+Related service manual sections:
+
+- [Deploying software regularly](https://www.gov.uk/service-manual/technology/deploying-software-regularly)
+- [Uptime and availability: keeping your service online](https://www.gov.uk/service-manual/technology/uptime-and-availability-keeping-your-service-online)
