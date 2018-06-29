@@ -166,7 +166,7 @@ interface with browser software to action them.
 [oop-wiki]: https://en.wikipedia.org/wiki/Object-oriented_programming
 [pola-wiki]: https://en.wikipedia.org/wiki/Principle_of_least_astonishment
 [interpreted-wiki]: https://en.wikipedia.org/wiki/Interpreted_language
-[ruby-go-comparison]: http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=yarv&lang2=go
+[ruby-go-comparison]: https://web.archive.org/web/20171112101316/http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=yarv&lang2=go
 [ruby-fast-enough]: https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7#.ibnrrqrki
 [mri-wiki]: https://en.wikipedia.org/wiki/Ruby_MRI
 [tdd-wiki]: https://en.wikipedia.org/wiki/Test-driven_development
