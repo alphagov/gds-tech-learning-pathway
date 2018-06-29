@@ -1,41 +1,46 @@
 
 # Junior
+A junior developer at GDS is likely to be in their first or second job in the industry, and this may be their first experience working with large codebases, large systems or with large teams.
+
+## Learning on the job as a junior technologist
+
+We expect juniors to learn through:
+
+- [Leading on getting well defined tasks from backlog to production](/career-path/competencies/leading-on-stories.md#junior-level)
 
 
-Entry level role.  Is likely to be their first or second job in the industry, and their first experience working with large codebases, large systems or with large teams.
+- [Working as part of a multi-disciplinary team to deliver stories](/career-path/competencies/working-as-a-multi-disciplinary-team.md#junior-level)
 
-## Growing and learning as a junior technologist
+- [Working with other developers](/career-path/competencies/building-software-as-a-team.md) to [take software from concept to production](/career-path/competencies/designing-for-reliability.md#junior-level)
 
-[Using a programming language](/resources/programming-languages.md)
-
-[Leading on getting well defined tasks from backlog to production](/career-path/competencies/leading-on-stories.md)
-
-[Assisting getting complex tasks from concept to production](/career-path/competencies/producing-production-ready-code.md)
-
-[Working as part of a multi-disciplinary team to deliver stories](/career-path/competencies/working-as-a-multi-disciplinary-team.md)
-
-[Sharing learning with peers (e.g. through documentation, talks, etc)](/career-path/competencies/sharing-knowledge-with-others.md)
+- [Sharing learning with peers (e.g. through documentation, talks, etc)](/career-path/competencies/sharing-knowledge-with-others.md#junior-level)
 
 
+You should regularly demonstrate:
 
-## Regularly demonstrates ability in:
+- [Knowing when to ask for help](/career-path/competencies/knowing-when-to-ask-for-help.md#junior-level) in areas they are unsure of
 
-[Producing production-ready code](/career-path/competencies/producing-production-ready-code.md) with assistance
+- [Owning your development plan](/career-path/competencies/owning-their-development-plan.md#junior-level)
 
-[Owning their development plan](/career-path/competencies/owning-their-development-plan.md)
+- [Receiving feedback graciously](/resources/giving-and-receiving-feedback.md) and learning from everything you do
 
-Using [version control](/resources/version-control.md) and [editors](/resources/editors.md)
+- Awareness of the wider tech community
 
-Best practices in [testing](/career-path/competencies/using-appropriate-testing-to-ensure-software-quality.md#junior-level)
+## Core people skills
+- Explaining ideas in a way that other people understand
+- Communicating status to the team and flagging blockers
 
-Showing awareness of the wider tech community
 
-[Knowing when to ask for help](/career-path/competencies/knowing-when-to-ask-for-help.md) in areas they are unsure of
+## Core technical skills
 
-Explaining ideas in a way that other people understand
+- [Using a programming language](/resources/programming-languages.md)
+- Using [version control](/resources/version-control.md) and [editors](/resources/editors.md)
+- Best practices in [testing](/career-path/competencies/using-appropriate-testing-to-ensure-software-quality.md#junior-level)
+- [Understanding choices between technical debt vs delivery](/resources/technical-debt-tradeoffs.md)
 
-Communicating status to the team and flagging blockers
 
-[Receiving feedback graciously and learning from everything they do](/resources/giving-and-receiving-feedback.md)
 
-[Understanding choices between technical debt vs delivery and can explain them](/resources/technical-debt-tradeoffs.md)
+
+
+
+
