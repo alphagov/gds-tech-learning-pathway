@@ -21,7 +21,7 @@ These are materials created by companies to help out new starters.
 These are some ways companies have made their career paths transparent.
 
 - https://levels.patreon.com/ - Patreon's Engineering Levels
-- [https://monzo.com/blog/2018/06/25/monzos-transparent-engineering-progression-framework/](Monzo's progression framework)
+- [Monzo's progression framework](https://monzo.com/blog/2018/06/25/monzos-transparent-engineering-progression-framework/)
 
 ## Advice
 Advice for people starting a technical role.
@@ -34,7 +34,7 @@ Curated lists of learning materials.
 - https://github.com/sindresorhus/awesome a curated list of lists grouped into frontend, backend, languages etc.
 
 ## "Things everyone should know"
-Lists of topics that may be relevant to technologists, and resources for learning for more about htem.
+Lists of topics that may be relevant to technologists, and resources for learning for more about them.
 
 - http://matt.might.net/articles/what-cs-majors-should-know/ - One of many "everyone should know know this" lists. Not all of it is relevant, but covers technical subjects people might be interested in learning.
 - https://github.com/mtdvio/every-programmer-should-know
