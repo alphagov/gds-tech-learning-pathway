@@ -14,11 +14,11 @@ We want to:
 
 ## Contents
 ### Career path
-The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). We call these competency statements.
+The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). We call these competency statements. We've mapped these to a common list of competencies which we want to explain in more detail.
 
-Each one should have its own page in this repository, covering what you need to do at each level.
+Each one is a single markdown file in this repository, with sections for each level. These may link to resource lists. The goal of these is not to design a new career path, but to describe as best we can what we expect technologists to demonstrate at each level,
 
-Each level has its own list of relevant competency statements derived from the career path:
+Each level also has a page that links back to the competencies:
 - [Junior](/career-path/junior.md)
 - [Mid-level](/career-path/mid.md)
 - [Senior](/career-path/senior.md)
@@ -28,9 +28,12 @@ Each level has its own list of relevant competency statements derived from the c
 
 To make it easier to keep these up to date, we'd prefer to link out to external resources as much as possible, rather than authoring content in this repository. Resource lists should tell you how to get started with something, and signpost resources which help you learn more about it.
 
+#### Inspiration and general resources
+[Inspiration and general resources](/resources/inspiration-and-general-resources.md) links to other projects that are similar to this one.
+
 ## Status
 
-This repository is an early draft.  We are working to get the structure right, and will then be focussing on the learning at Junior level before trying to elaborate it.
+This repository is an early draft. We have decided the basic structure and have mapped career path statements to a list of competencies. We are part way through creating pages for each of these.
 
 [Contributions](CONTRIBUTING.md) are welcome in the form of PRs.
 
@@ -46,7 +49,7 @@ For a first pass we are going to:
 
 ## How to contribute
 
-see [CONTRIBUTING.md](CONTRIBUTING.md)
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Longer term goals
 
@@ -55,7 +58,7 @@ We want to encourage learning collaboratively in the GDS technology community, a
 - people to offer and request mentorship
 - people to share what they're wanting to learn so that they can join up with others wanting to learn the same things, or get support from others
 
-However, this repo should not contain any personal names or information because we intend to make this repo public.
+However, this repo should not contain any personal names or information because this repo is public.
 
 ## Licence
 
