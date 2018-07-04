@@ -20,3 +20,4 @@ a tutorial you are following uses an older version.
 - [Overview of Puppet's architecture](https://puppet.com/docs/puppet/5.5/architecture.html)
 - For a more thorough introduction to the Puppet ecosystem see [Puppet's learning roadmaps](https://learn.puppet.com/learning-roadmaps)
 - The [puppet cookbook](https://www.puppetcookbook.com/) has good examples of how to do specific things using puppet.
+- The GDS Library has [multiple](https://gds-library.cloudapps.digital/books/98) [books](https://gds-library.cloudapps.digital/books/4) on [puppet](https://gds-library.cloudapps.digital/books/94).
