@@ -4,12 +4,12 @@ Version control facilitates collaboration amongst a team working on a shared cod
 
 Version control also allows for controlled testing and deployment of known software versions, which is an essential part of any reliable quality control process. Nowadays this will typically be in the form of a continuous integration/continuous deployment pipeline.
 
-## Coding in the open at GDS
+## Coding in the open
 
 At GDS we use Github to store our git repositories and review work in progress.
-Most of our source code is open to the public.
+Source code should be [open to the public and published under an open source license](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/).
 
-[The GDS technical guidance manual documents how we manage our source code repositories.](https://gds-tech-docs.cloudapps.digital/standards/source-code.html#source-code)
+[The GDS Way](https://gds-tech-docs.cloudapps.digital/standards/source-code.html#source-code) explains how to manage source code repositories and use GitHub securely.
 
 ## What you should be able to do
 
@@ -31,16 +31,34 @@ Most of our source code is open to the public.
 
 We’d expect a Junior developer to be able to do all of these things.
 
-## More advanced
+### Guides
+- [GitHub flow](https://help.github.com/articles/github-flow/)
+- [Git immersion](http://gitimmersion.com/index.html)
+- [Git for non-developers](http://anitacheng.com/git-for-non-developers)
 
+## More advanced
 - Rewrite commit history before submitting a pull request in order to make it clear
 - Understanding the trade-offs of long running feature branches
 - Knowing when to split things into multiple pull requests
 - Being skilled at structuring commits into a coherent narrative
 - Understand git hooks and when to use them
 
-## Resources
-- Guide to git - basic commands and concepts like
-- Why we do code reviews; why pull requests
-- [Our Git styleguide](https://github.com/alphagov/styleguides/blob/master/git.md)
-- https://github.com/k88hudson/git-flight-rules
+### Guides
+- [Git flight rules](https://github.com/k88hudson/git-flight-rules) - what to do if something goes wrong
+- [Pro Git](https://git-scm.com/book/en/v2) - free online book about git
+
+## Preserving history
+Writing clear commit messages helps other developers (including your future self) understand why changes were made.
+
+See [styleguide: git](https://github.com/alphagov/styleguides/blob/master/git.md) for some good examples.
+
+## Effective pull requests
+See [styleguide: pull requests](https://github.com/alphagov/styleguides/blob/master/pull-requests.md) for details about how to raise and review pull requests.
+
+We make code review run more smoothly by agreeing on a [common set of coding conventions](https://github.com/alphagov/styleguides), and [using automated tools](https://gdstechnology.blog.gov.uk/2016/09/30/easing-the-process-of-pull-request-reviews/) instead of nitpicking small problems. This lets the reviewer focus on other aspects of the pull request.
+
+### Further reading
+- [The Importance of code reviews](https://www.sitepoint.com/the-importance-of-code-reviews/)
+- [How to conduct effective code reviews](https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/)
+- [Principles of a good code review](https://dev.to/codemouse92/10-principles-of-a-good-code-review-2eg)
+- [The Art of Code Review](https://skillsmatter.com/skillscasts/8085-the-art-of-code-review) (video, 23 minutes)
