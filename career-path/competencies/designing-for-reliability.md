@@ -37,5 +37,4 @@ At senior level, you should
 
 
 ### External resources
-- [Service manual: deploying software regularly](https://www.gov.uk/service-manual/technology/deploying-software-regularly)
-- [Service manual: Uptime and availability: keeping your service online](https://www.gov.uk/service-manual/technology/uptime-and-availability-keeping-your-service-online)
+- [Resources: Reliability engineering](/resources/systems/reliability-engineering.md)
