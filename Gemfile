@@ -14,3 +14,6 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem 'govuk_tech_docs'
 
 gem 'rack-contrib'
+gem 'foreman'
+gem 'puma'
+gem 'rake'
