@@ -128,6 +128,8 @@ GEM
     parallel (1.12.1)
     public_suffix (3.0.2)
     rack (2.0.5)
+    rack-contrib (2.0.1)
+      rack (~> 2.0)
     rack-livereload (0.3.17)
       rack
     rb-fsevent (0.10.3)
@@ -154,8 +156,12 @@ PLATFORMS
 
 DEPENDENCIES
   govuk_tech_docs
+  rack-contrib
   tzinfo-data
   wdm (~> 0.1.0)
 
+RUBY VERSION
+   ruby 2.5.1p57
+
 BUNDLED WITH
-   1.13.6
+   1.16.2

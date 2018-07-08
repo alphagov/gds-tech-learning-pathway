@@ -1,18 +1,18 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: 
+host:
 
 # Header-related options
 show_govuk_logo: true
-service_name: My First Service
-service_link: https://www.larry-the-cat.service.gov.uk
+service_name: GDS Tech Learning Pathway
+service_link: https://gds-tech-learning-pathway.cloudapps.digital
 phase: Beta
 
 # Links to show on right-hand-side of header
 header_links:
-  About: https://www.larry-the-cat.service.gov.uk
-  Get Started: https://www.larry-the-cat.service.gov.uk/get-started
+  About: https://gds-tech-learning-pathway.cloudapps.digital
+  Get Started: https://gds-tech-learning-pathway.cloudapps.digital/get-started
   Documentation: /
-  Support: https://www.larry-the-cat.service.gov.uk/support
+  Support: https://gds-tech-learning-pathway.cloudapps.digital/support
 
 # Tracking ID from Google Analytics (e.g. UA-XXXX-Y)
 ga_tracking_id:
