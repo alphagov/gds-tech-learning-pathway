@@ -14,17 +14,12 @@ We want to:
 
 ## Contents
 ### Career path
-The [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) contains statements about the skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). We call these competency statements. We've mapped these to a common list of competencies which we want to explain in more detail.
+The [technologists career path](/career-path/career-path.md) covers the roles within the software engineering community and common paths for career progression.
 
-Each one is a single markdown file in this repository, with sections for each level. These may link to resource lists. The goal of these is not to design a new career path, but to describe as best we can what we expect technologists to demonstrate at each level,
-
-Each level also has a page that links back to the competencies:
-- [Junior](/career-path/junior.md)
-- [Mid-level](/career-path/mid.md)
-- [Senior](/career-path/senior.md)
+We've broken it down into what we call competency statements. These are skills, behaviours and knowledge required at different levels (such as "Using a programming language", "Leading on getting well defined tasks from backlog to production"). We aim to describe as best we can what we expect technologists to demonstrate at each level.
 
 ### Resource lists
-[Resource lists](/resources) are lists of resources about a specific topic or technology.
+[Resource lists](/resources) are lists of resources about a specific topic or technology. We don't expect everyone to have expertise in every topic.
 
 To make it easier to keep these up to date, we'd prefer to link out to external resources as much as possible, rather than authoring content in this repository. Resource lists should tell you how to get started with something, and signpost resources which help you learn more about it.
 
