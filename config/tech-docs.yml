@@ -23,3 +23,6 @@ max_toc_heading_level: 6
 
 # Prevent robots from indexing (e.g. whilst in development)
 prevent_indexing: false
+
+# Don't show the crown logo
+show_govuk_logo: false
