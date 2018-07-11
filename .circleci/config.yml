@@ -1,26 +1,33 @@
 version: 2
 jobs:
   build:
-    machine:
-      ruby:
-        version: 2.4.1
+    docker: # run the steps with Docker
+      - image: circleci/ruby:2.4-node
     steps:
       - checkout
+
       - run:
-          name: Check for dead links
+          name: Install dependencies
           command: |
               bundle
 
+      - run:
+          name: Check for dead links
+          command: |
               if [ `git rev-parse origin/master` = $CIRCLE_SHA1 ]
               then
                 changed_markdown=$(find . -name '*.md')
               else
-                changed_markdown=$(git diff --name-only `git merge-base origin/master HEAD` |grep '.*\.md$')
+                changed_markdown=$(git diff --name-only `git merge-base origin/master HEAD` |grep '.*\.md$' || true)
               fi
 
-              if [ -n $changed_markdown]
+              echo "Changed: $changed_markdown"
+
+              if [ -n $changed_markdown ]
               then
                 awesome_bot --allow-dupe --allow-redirect $changed_markdown --base-url "https://github.com/alphagov/gds-tech-learning-pathway/blob/$CIRCLE_SHA1/" || true
               fi
 
-              bundle exec danger --verbose
+      - run:
+          name: Run danger
+          command: bundle exec danger --verbose
