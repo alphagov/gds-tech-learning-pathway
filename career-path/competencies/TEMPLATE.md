@@ -20,10 +20,12 @@ How does it relate to your role and responsibilities?
 
 [What it looks like at senior level.]
 
-### Related guides [optional]
+### Resources [optional]
+Here you can link to:
 
-[Links to guides on topics related to this competency]
+- Resource list pages
+- The GDS way
+- The service manual
+- Anything officially maintained by GDS
 
-### External Resources [optional]
-
-[Links to external resources]
+Avoid linking directly to external resources, as we think this will make it harder to review and update the career path section. Consider extracting them into a separate resource list and linking to that instead.
