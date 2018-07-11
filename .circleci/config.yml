@@ -10,5 +10,17 @@ jobs:
           name: Check for dead links
           command: |
               bundle
-              awesome_bot --allow-dupe --allow-redirect `find . -name '*.md'` --base-url "https://github.com/alphagov/gds-tech-learning-pathway/blob/$CIRCLE_SHA1/" || true
+
+              if [ `git rev-parse origin/master` = $CIRCLE_SHA1 ]
+              then
+                changed_markdown=$(find . -name '*.md')
+              else
+                changed_markdown=$(git diff --name-only `git merge-base origin/master HEAD` |grep '.*\.md$')
+              fi
+
+              if [ -n $changed_markdown]
+              then
+                awesome_bot --allow-dupe --allow-redirect $changed_markdown --base-url "https://github.com/alphagov/gds-tech-learning-pathway/blob/$CIRCLE_SHA1/" || true
+              fi
+
               bundle exec danger --verbose
