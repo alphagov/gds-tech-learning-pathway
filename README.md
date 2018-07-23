@@ -1,7 +1,7 @@
 # GDS Technology Community - Learning Pathways
 [![Build Status](https://circleci.com/gh/alphagov/gds-tech-learning-pathway.svg?&style=shield)](https://circleci.com/gh/alphagov/gds-tech-learning-pathway)
 
-This repository exists to bring together the GDS Technology community's collective knowledge and resources to support the learning and development of technologists.
+This project exists to bring together the GDS Technology community's collective knowledge and resources to support the learning and development of technologists.
 
 View it at [gds-tech-learning-pathway.cloudapps.digital](https://gds-tech-learning-pathway.cloudapps.digital) 👈
 
