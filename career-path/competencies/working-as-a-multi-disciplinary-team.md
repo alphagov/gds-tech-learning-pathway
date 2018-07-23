@@ -1,2 +1,0 @@
-
-## Working as part of a multi-disciplinary team to deliver stories
