@@ -15,7 +15,7 @@ We want to:
 
 ## How to contribute
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://gds-tech-learning-pathway.cloudapps.digital/CONTRIBUTING.html)
 
 ## Longer term goals
 
