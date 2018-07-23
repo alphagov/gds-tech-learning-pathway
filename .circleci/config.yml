@@ -1,13 +1,33 @@
 version: 2
 jobs:
   build:
-    machine:
-      ruby:
-        version: 2.4.1
+    docker: # run the steps with Docker
+      - image: circleci/ruby:2.5-node
     steps:
       - checkout
+
+      - run:
+          name: Install dependencies
+          command: |
+              bundle
+
       - run:
           name: Check for dead links
           command: |
-              gem install awesome_bot
-              awesome_bot --allow-dupe --allow-redirect `find . -name '*.md'` --base-url "https://github.com/alphagov/gds-tech-learning-pathway/blob/$CIRCLE_SHA1/"
+              if [ `git rev-parse origin/master` = $CIRCLE_SHA1 ]
+              then
+                changed_markdown=$(find -E . -iregex '.*\.md(\.erb)?')
+              else
+                changed_markdown=$(git diff --name-only `git merge-base origin/master HEAD` |grep '.*\.md(\.erb)?$' || true)
+              fi
+
+              echo "Changed: $changed_markdown"
+
+              if [ -n $changed_markdown ]
+              then
+                awesome_bot --allow-dupe --allow-redirect $changed_markdown --base-url "https://github.com/alphagov/gds-tech-learning-pathway/blob/$CIRCLE_SHA1/" || true
+              fi
+
+      - run:
+          name: Run danger
+          command: bundle exec danger --verbose
