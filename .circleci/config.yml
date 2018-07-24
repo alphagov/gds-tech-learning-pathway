@@ -16,7 +16,7 @@ jobs:
           command: |
               if [ `git rev-parse origin/master` = $CIRCLE_SHA1 ]
               then
-                changed_markdown=$(find -E . -iregex '.*\.md(\.erb)?')
+                changed_markdown=$(find . |egrep '.*\.md(\.erb)?')
               else
                 changed_markdown=$(git diff --name-only `git merge-base origin/master HEAD` |grep '.*\.md(\.erb)?$' || true)
               fi
