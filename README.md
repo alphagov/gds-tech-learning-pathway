@@ -17,6 +17,21 @@ We want to:
 
 See [CONTRIBUTING.md](https://gds-tech-learning-pathway.cloudapps.digital/CONTRIBUTING.html)
 
+## Running the site locally
+```
+bundle install
+bundle exec middleman serve
+```
+
+This will serve the site at http://localhost:4567
+
+## Deploying the site
+The app currently runs within the govuk sandbox space on the government PaaS. You need an account to deploy it. If you haven't used it before, ask someone for help setting this up.
+
+Generate the static site using `bundle exec middleman build`
+
+You can then deploy with coundfoundry: `cf push`
+
 ## Longer term goals
 
 We want to encourage learning collaboratively in the GDS technology community, and so we'll seek to provide ways for:
