@@ -9,9 +9,9 @@ phase: Beta
 
 # Links to show on right-hand-side of header
 header_links:
-  Home: https://gds-tech-learning-pathway.cloudapps.digital
-  Career path: https://gds-tech-learning-pathway.cloudapps.digital/career-path/
-  Contributing: https://gds-tech-learning-pathway.cloudapps.digital/contributing.html
+  Home: /
+  Career path: /career-path/
+  Contributing: /CONTRIBUTING.html
 
 # Tracking ID from Google Analytics (e.g. UA-XXXX-Y)
 ga_tracking_id: UA-111409592-2
