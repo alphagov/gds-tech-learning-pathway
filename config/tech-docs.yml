@@ -5,7 +5,7 @@ host:
 show_govuk_logo: true
 service_name: GDS Tech Learning Pathway
 service_link: https://gds-tech-learning-pathway.cloudapps.digital
-phase: Beta
+phase: Internal
 
 # Links to show on right-hand-side of header
 header_links:
