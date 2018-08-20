@@ -26,3 +26,5 @@ prevent_indexing: false
 
 # Don't show the crown logo
 show_govuk_logo: false
+
+enable_search: true
