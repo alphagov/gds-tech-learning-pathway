@@ -1,8 +1,5 @@
----
-title: Career path
----
 
-# The technologist's career path at GDS
+## The technologist's career path at GDS
 
 
 The information in this section expands on the [technologists career path](https://docs.google.com/document/d/1_svjdchS8LIyKDF6-FAfVPSuvJmoIRgTQukuxl0XRfM/edit) at GDS, which applies to the [Software Engineering community](https://sites.google.com/a/digital.cabinet-office.gov.uk/gds/communities-of-practice/software-engineering-1).
