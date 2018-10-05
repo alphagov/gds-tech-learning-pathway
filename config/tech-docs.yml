@@ -9,8 +9,9 @@ phase: Internal
 
 # Links to show on right-hand-side of header
 header_links:
-  Home: /
-  Career path: /career-path.html
+  About: /about
+  Career path: /
+  Resources: /resources
   Contributing: /CONTRIBUTING.html
 
 # Tracking ID from Google Analytics (e.g. UA-XXXX-Y)
@@ -19,7 +20,7 @@ ga_tracking_id: UA-111409592-2
 # Table of contents depth – how many levels to include in the table of contents.
 # If your ToC is too long, reduce this number and we'll only show higher-level
 # headings.
-max_toc_heading_level: 4
+max_toc_heading_level: 3
 
 # Prevent robots from indexing (e.g. whilst in development)
 prevent_indexing: false
