@@ -1,1 +1,0 @@
-### Designing technical features

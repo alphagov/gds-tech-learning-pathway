@@ -1,4 +1,4 @@
-### Understanding technical debt
+# Understanding technical debt
 
 #### Resources
 

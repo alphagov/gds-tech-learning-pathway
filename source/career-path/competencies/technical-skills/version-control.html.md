@@ -1,4 +1,4 @@
-### Using version control
+# Using version control
 
 Version control facilitates collaboration amongst a team working on a shared code base. Each change to a code base includes a message explaining the reason for those changes. These messages provide useful context to future developers who may want to understand the reasoning behind different design decisions.
 

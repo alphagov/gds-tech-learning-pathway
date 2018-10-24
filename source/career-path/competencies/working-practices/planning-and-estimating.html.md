@@ -1,4 +1,4 @@
-### Planning and estimating
+# Planning and estimating
 
 #### The developer's role
 

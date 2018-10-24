@@ -1,4 +1,4 @@
-### Sharing knowledge with others
+# Sharing knowledge with others
 This can include sharing outside of your job role, team or organisation, and collaborating to solve common problems.
 
 [Make things open, it makes things better](https://www.gov.uk/design-principles#tenth)

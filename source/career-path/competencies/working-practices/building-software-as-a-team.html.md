@@ -1,4 +1,4 @@
-### Building software as a team
+# Building software as a team
 
 #### The developer's role
 Agile teams recognise that nothing is going to be perfect first time, but if we

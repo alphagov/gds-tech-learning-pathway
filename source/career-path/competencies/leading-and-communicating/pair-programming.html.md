@@ -1,4 +1,4 @@
-### Pair programming
+# Pair programming
 
 #### The developers role
 

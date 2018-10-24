@@ -1,4 +1,4 @@
-### Designing for reliability
+# Designing for reliability
 
 #### The developers role
 

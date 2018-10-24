@@ -1,4 +1,4 @@
-### Using appropriate testing to ensure software quality
+# Using appropriate testing to ensure software quality
 
 It's impossible to build software without making mistakes. Testing lets us catch small problems early and fix them before they become big problems.
 
