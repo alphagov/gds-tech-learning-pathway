@@ -16,4 +16,4 @@ weight: 30
 
 #### External resources
 
-- http://martinfowler.com/bliki/DesignStaminaHypothesis.html
+- [http://martinfowler.com/bliki/DesignStaminaHypothesis.html](http://martinfowler.com/bliki/DesignStaminaHypothesis.html)
