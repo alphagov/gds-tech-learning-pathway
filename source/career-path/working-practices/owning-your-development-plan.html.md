@@ -1,9 +1,13 @@
+---
+weight: 70
+---
+
 # Owning your development plan
 
 Developers should take responsibility for their continued learning and
 development by forming a development plan.
 
-#### Your role as a developer
+## Your role as a developer
 
 Developers should identify areas they are interested in and areas where they
 have skill gaps and seek out suitable resources to help further their
@@ -14,7 +18,7 @@ Your development plan should be reflected in your objective (for example under
 the heading "What are you doing for personal development?") and discussed with
 your line manager.
 
-#### Junior level
+### Junior level
 
 You will probably have broad goals in your development plan as you become familiar
 with the large surface area of modern development and web/dev ops.
@@ -31,7 +35,7 @@ There is a spreadsheet of suggested 20% time projects
 
 You should discuss the project with your line manager before starting on it.
 
-#### Mid level
+### Mid level
 
 Your development plan may begin to focus more on higher level concepts - how to
 design maintainable and scalable solutions. Learning not only the intricacies of

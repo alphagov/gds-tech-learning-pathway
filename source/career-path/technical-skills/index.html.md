@@ -1,5 +1,5 @@
 ---
 title: Technical skills
-weight: 30
+weight: 20
 ---
 # Technical skills

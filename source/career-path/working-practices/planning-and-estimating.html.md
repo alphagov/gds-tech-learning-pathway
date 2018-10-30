@@ -1,6 +1,10 @@
+---
+weight: 30
+---
+
 # Planning and estimating
 
-#### The developer's role
+## The developer's role
 
 Estimating and measuring the development effort and cost of building and maintaining software is essential for developers. These skills are useful in informing decisions and guiding delivery.
 
@@ -27,11 +31,11 @@ However your team chooses to estimate stories, it is important to remember that 
 [quora]: https://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe?srid=24b&share=1
 [planning-poker]: http://en.wikipedia.org/wiki/Planning_poker
 
-#### Junior level
+### Junior level
 
 You can estimate how long it will take to to develop some simple and well defined functionality in code bases with which you are familiar. How accurate your estimations are in retrospect will probably vary a fair amount as you gain experience. Given a todo list application, a well defined piece of functionality might be "add a new DateTime field to the todo_lists table and default it to the time the row was inserted".
 
-#### Mid level
+### Mid level
 
 You understand the trade offs between various implementations of a solution within a project.
 
@@ -47,7 +51,7 @@ You understand and can estimate complexity in code bases that you are less famil
 
 You can identify when there is not enough information to estimate a story successfully.
 
-#### Senior level
+### Senior level
 
 You understand the trade offs between various implementations for epics that touch multiple projects or code bases.
 

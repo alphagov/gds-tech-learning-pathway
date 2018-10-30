@@ -1,5 +1,5 @@
 ---
 title: Working practices
-weight: 20
+weight: 10
 ---
 # Working practices

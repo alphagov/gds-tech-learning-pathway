@@ -1,6 +1,11 @@
+---
+title: Building software as a team
+weight: 10
+---
+
 # Building software as a team
 
-#### The developer's role
+## The developer's role
 Agile teams recognise that nothing is going to be perfect first time, but if we
 release stuff regularly we can learn about and continuously improve products.
 
@@ -8,7 +13,7 @@ As developers it's important that we can easily respond to change, and teams can
 continue to support products without relying on the original authors of the code
 always being there (otherwise we could never take a holiday).
 
-##### Junior level
+### Junior level
 
 You should:
 
@@ -17,12 +22,12 @@ You should:
 - understand that code is read more often that it is written
 - prefer to refactor and reuse code rather than duplicating it
 
-##### Mid level
+### Mid level
 
-##### Senior level
+### Senior level
 
 
-##### External resources
+### External resources
 
 Depending on the technology you're working with you may find the following resource lists helpful:
 
@@ -32,7 +37,7 @@ Depending on the technology you're working with you may find the following resou
 - [Java](/resources/languages/java.html)
 - [Node.js](/resources/frameworks/nodejs.html)
 
-##### Techniques
+### Techniques
 
 - [Pair programming](/resources/pair-programming.html)
 - [Giving and receiving feedback](/resources/giving-and-receiving-feedback.html)

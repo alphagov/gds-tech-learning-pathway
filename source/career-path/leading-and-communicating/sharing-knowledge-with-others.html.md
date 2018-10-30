@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Sharing knowledge with others
 This can include sharing outside of your job role, team or organisation, and collaborating to solve common problems.
 
@@ -6,7 +10,7 @@ This can include sharing outside of your job role, team or organisation, and col
 > We should share what we’re doing whenever we can. With colleagues, with users, with the world. Share code, share designs, share ideas, share intentions, share failures. The more eyes there are on a service the better it gets — howlers are spotted, better alternatives are pointed out, the bar is raised.
 Much of what we’re doing is only possible because of open source code and the generosity of the web design community. We should pay that back.
 
-#### Your role as developer/webops
+## Your role as developer/webops
 You can share knowledge internally by
 
 - Reviewing other developers' code
@@ -24,12 +28,12 @@ Some ways you can share knowledge externally:
 
 As a developer or webops at GDS you will [code in the open](https://gds-way.cloudapps.digital/standards/source-code.html#source-code), so you should understand how to handle sensitive information (like passwords) independently of the application source code.
 
-#### Junior level
+### Junior level
 You can demonstrate work at Show and Tell events and within your team.
 
 You can also volunteer for the monthly Technospective to give a longer talk on a specific topic.
 
-#### Mid level
+### Mid level
 
 [Working together with other developers](/career-path/competencies/taking-the-lead-in-a-pair-situation.html) is a really good way to share knowledge, since you get to see other dev's workflow, environment and editor/ide config, and general approaches to problem solving.
 
@@ -42,4 +46,8 @@ More suggestions:
 - help a junior developer with a 20% project, or [contribute ideas for 20% projects](https://docs.google.com/a/digital.cabinet-office.gov.uk/forms/d/e/1FAIpQLSeG8FP4mkaM1XYoY4rghgP7cUCXzLWNB849voZLVDGaWOxLQg/viewform)
 - help organise a workshop or presentation
 
-#### Senior level
+### Senior level
+
+## Related guides
+
+## External resources

@@ -1,5 +1,5 @@
 ---
 title: Leading and communicating
-weight: 10
+weight: 30
 ---
 # Leading and communicating

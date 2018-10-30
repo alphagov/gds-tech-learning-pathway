@@ -1,8 +1,12 @@
+---
+weight: 50
+---
+
 # Using appropriate testing to ensure software quality
 
 It's impossible to build software without making mistakes. Testing lets us catch small problems early and fix them before they become big problems.
 
-#### Your role as developer
+## Your role as developer
 
 As you write code, you should be thinking about how to test whether it works. You should ensure that code you work on is covered by automated tests, so that you can be alerted early if it stops working as intended.
 
@@ -10,7 +14,7 @@ Testability is a part of designing software well. If something is hard to test a
 
 Don't forget about non-functional requirements like performance, accessibility, and security - there are tools to automate testing these things too.
 
-#### Junior level
+### Junior level
 
 At junior level, you will normally work with another more experienced developer who will help you with test driven development (TDD). With guidance you will learn what tests to write and how to make them pass.
 
@@ -23,7 +27,7 @@ A good test is generally defined to:
 - carry out one expectation
 - have a useful error message, so that the issue can be easily located
 
-#### Mid level
+### Mid level
 
 At mid level, testing should be a core part of delivering a feature.
 
@@ -40,15 +44,15 @@ You should understand different types of testing and when to use them, for examp
 - Functional testing
 - Performance/Load testing
 
-#### Senior level
+### Senior level
 
 
-#### Resources
-##### Approaches
+## Resources
+### Approaches
 - [GOV.UK Whitehall Publisher testing guide](https://github.com/alphagov/whitehall/blob/cccbaa242d92e0f72aa1a5b8162961a6092450c4/docs/testing.html) some good guidance on testing rails apps
 - [Testing and Checking refined](http://www.satisfice.com/blog/archives/856)
 
-##### Writing good tests
+### Writing good tests
 - [GeePaw Hill on TDD](http://geepawhill.org/five-underplayed-premises-of-tdd-2/)
 - [A quick puzzle to test your problem solving](https://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?mcubz=3) - this shows why it can be hard to write effective tests
 - [Testing microservices](http://martinfowler.com/articles/microservice-testing/) - infodeck from Thoughtworks which outlines the architectural principles of microservices and the various options and approaches
