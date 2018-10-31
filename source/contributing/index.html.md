@@ -1,3 +1,7 @@
+---
+title: Contributing
+weight: 100
+---
 # Contributing
 
 This is a community-driven project and we welcome all contributions. This project is developed under the [Alphagov Code of Conduct](https://github.com/alphagov/code-of-conduct)
