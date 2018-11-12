@@ -166,21 +166,22 @@ interface with browser software to action them.
 - [Better specs](http://betterspecs.org/)
 
 ### Additional resources
-- [oop-wiki](https://en.wikipedia.org/wiki/Object-oriented_programming)
-- [pola-wiki](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
-- [interpreted-wiki](https://en.wikipedia.org/wiki/Interpreted_language)
-- [ruby-go-comparison](https://web.archive.org/web/20171112101316/http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=yarv&lang2=go)
-- [ruby-fast-enough](https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7#.ibnrrqrki)
-- [mri-wiki](https://en.wikipedia.org/wiki/Ruby_MRI)
-- [tdd-wiki](https://en.wikipedia.org/wiki/Test-driven_development)
-- [bdd-wiki](https://en.wikipedia.org/wiki/Behavior-driven_development)
-- [dhh-testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
-- [rspec](http://rspec.info/)
-- [minitest](http://docs.seattlerb.org/minitest/)
-- [test-unit](http://test-unit.github.io/)
-- [cucumber](https://cucumber.io)
-- [cucumber-collaboration](https://cucumber.io/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool)
-- [capybara](http://jnicklas.github.io/capybara/)
-- [rake](https://github.com/ruby/rake)
-- [repl](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
-- [zsh](http://www.zsh.org/)
+[oop-wiki]: https://en.wikipedia.org/wiki/Object-oriented_programming
+[pola-wiki]: https://en.wikipedia.org/wiki/Principle_of_least_astonishment
+[interpreted-wiki]: https://en.wikipedia.org/wiki/Interpreted_language
+[declarative-wiki]: https://en.wikipedia.org/wiki/Declarative_programming
+[ruby-go-comparison]: https://web.archive.org/web/20171112101316/http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=yarv&lang2=go
+[ruby-fast-enough]: https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7#.ibnrrqrki
+[mri-wiki]: https://en.wikipedia.org/wiki/Ruby_MRI
+[tdd-wiki]: https://en.wikipedia.org/wiki/Test-driven_development
+[bdd-wiki]: https://en.wikipedia.org/wiki/Behavior-driven_development
+[dhh-testing]: http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+[rspec]: http://rspec.info/
+[minitest]: http://docs.seattlerb.org/minitest/
+[test-unit]: http://test-unit.github.io/
+[cucumber]: https://cucumber.io
+[cucumber-collaboration]: https://cucumber.io/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool
+[capybara]: http://jnicklas.github.io/capybara/
+[rake]: https://github.com/ruby/rake
+[repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
+[zsh]: http://www.zsh.org/
