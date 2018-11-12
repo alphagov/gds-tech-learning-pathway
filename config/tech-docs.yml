@@ -31,3 +31,6 @@ enable_search: true
 
 multipage_nav: true
 collapsible_nav: true
+
+show_contribution_banner: true
+github_repo: alphagov/gds-tech-learning-pathway
