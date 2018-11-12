@@ -12,7 +12,7 @@ As a developer you are responsible for the whole release process, from code revi
 deployment on a production system. You should also ensure that the products you are
 working on are easy to support and operate.
 
-### Junior level
+### Junior level
 
 Working with a more experienced developer, you should be able to produce code of a sufficient quality standard to ship to production.
 
