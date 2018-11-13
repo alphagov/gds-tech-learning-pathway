@@ -39,7 +39,8 @@ Depending on the technology you're working with you may find the following resou
 
 ### Techniques
 
-- [Pair programming](/resources/pair-programming.html)
+- [Pair
+  programming](/career-path/leading-and-communicating/pair-programming.html)
 - [Giving and receiving feedback](/resources/giving-and-receiving-feedback.html)
 - [Structuring code](/resources/structuring-code.html)
 - [Documenting work](/resources/documentation.html)
