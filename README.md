@@ -30,7 +30,7 @@ The app currently runs within the govuk sandbox space on the government PaaS. Yo
 
 Generate the static site using `bundle exec middleman build`
 
-You can then deploy with coundfoundry: `cf push`
+You can then deploy with cloundfoundry: `cf push`
 
 ## Longer term goals
 
