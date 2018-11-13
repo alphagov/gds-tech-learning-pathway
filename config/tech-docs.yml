@@ -28,7 +28,3 @@ prevent_indexing: false
 show_govuk_logo: false
 
 enable_search: true
-
-show_contribution_banner: true
-
-github_repo: alphagov/gds-tech-learning-pathway
