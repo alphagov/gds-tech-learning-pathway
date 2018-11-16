@@ -1,3 +1,8 @@
+---
+last_reviewed_on: 2018-11-16
+review_in: 1 year
+title: Code reviews
+---
 # Code reviews
 
 ## What is a code review?
@@ -37,7 +42,7 @@ reviews.
   - Link to the story -
     _Helps the reviewer to get context of the intent of the PR (as well as
     allowing those looking at the trello board to track progress)._
-  - Include screenshots, GIFs or links where necessary - 
+  - Include screenshots, GIFs or links where necessary -
     _This can help to illustrate the end result of the code, highlight changes
     made or explain your design choices._
 
