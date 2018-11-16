@@ -11,16 +11,3 @@ warn("Big PR") if git.lines_of_code > 500
 # Don't let testing shortcuts get into master by accident
 #fail("fdescribe left in tests") if `grep -r fdescribe specs/ `.length > 1
 #fail("fit left in tests") if `grep -r fit specs/ `.length > 1
-
-# Check links
-require 'json'
-
-outputs = Dir.glob("ab-results-*-markdown-table.json")
-outputs.each do |output|
-  results = File.read output
-  j = JSON.parse results
-  if j['error']==true
-    fail j['title']
-      markdown j['message']
-      end
-end

@@ -12,22 +12,5 @@ jobs:
               bundle
 
       - run:
-          name: Check for dead links
-          command: |
-              if [ `git rev-parse origin/master` = $CIRCLE_SHA1 ]
-              then
-                changed_markdown=$(find . |egrep '.*\.md(\.erb)?')
-              else
-                changed_markdown=$(git diff --name-only `git merge-base origin/master HEAD` |grep '.*\.md(\.erb)?$' || true)
-              fi
-
-              echo "Changed: $changed_markdown"
-
-              if [ -n $changed_markdown ]
-              then
-                awesome_bot --allow-dupe --allow-redirect $changed_markdown --base-url "https://github.com/alphagov/gds-tech-learning-pathway/blob/$CIRCLE_SHA1/" || true
-              fi
-
-      - run:
           name: Run danger
           command: bundle exec danger --verbose
