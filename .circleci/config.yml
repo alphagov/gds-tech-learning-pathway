@@ -14,3 +14,17 @@ jobs:
       - run:
           name: Run danger
           command: bundle exec danger --verbose
+
+      - run:
+          name: Deploy
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ];
+              curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
+              sudo dpkg -i cf-cli_amd64.deb
+              cf -v
+              cf api "https://api.cloud.service.gov.uk"
+              cf auth "$CF_USER" "$CF_PASSWORD"
+              cf target -o "$CF_ORG" -s "$CF_SPACE"
+              cf install-plugin autopilot -f -r CF-Community
+              cf zero-downtime-push gds-tech-learning-pathway -f manifest.yml
+            fi
