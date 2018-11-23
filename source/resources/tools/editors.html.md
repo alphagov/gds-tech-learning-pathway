@@ -1,3 +1,8 @@
+---
+last_reviewed_on: 2018-11-16
+review_in: 1 year
+title: Using editors
+---
 # Using editors
 
 Using editors effectively can greatly increase the speed at which we can try new ideas and approaches.

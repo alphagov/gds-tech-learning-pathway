@@ -1,3 +1,8 @@
+---
+last_reviewed_on: 2018-11-16
+review_in: 1 year
+title: Handling incidents
+---
 # Handling incidents
 
 ## Responding to incidents

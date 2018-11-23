@@ -1,5 +1,8 @@
 ---
 weight: 70
+last_reviewed_on: 2018-11-16
+review_in: 1 month
+title: Owning your development plan
 ---
 
 # Owning your development plan

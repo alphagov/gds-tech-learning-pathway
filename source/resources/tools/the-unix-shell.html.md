@@ -1,3 +1,8 @@
+---
+last_reviewed_on: 2018-11-16
+review_in: 1 year
+title: The unix shell
+---
 # The Unix Shell
 
 The unix shell (you might know it as "the command line", or "the terminal"), is one of the oldest programming environments around that remains in use today. The first shell was designed by [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) for the Unix operating system, and shells have evolved considerably since: you are more likely to have come across one of either [bash](http://www.gnu.org/software/bash/) or [zsh](http://www.zsh.org/).

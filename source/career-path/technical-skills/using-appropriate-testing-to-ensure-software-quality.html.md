@@ -1,5 +1,8 @@
 ---
 weight: 50
+last_reviewed_on: 2018-11-16
+review_in: 1 year
+title: Using appropriate testing to ensure software quality
 ---
 
 # Using appropriate testing to ensure software quality
