@@ -19,7 +19,7 @@ working on are easy to support and operate.
 
 Working with a more experienced developer, you should be able to produce code of a sufficient quality standard to ship to production.
 
-You should [use automated testing](/career-path/competencies/using-appropriate-testing-to-ensure-software-quality.html) to ensure your code works.
+You should [use automated testing](/career-path/competencies/technical-skills/using-appropriate-testing-to-ensure-software-quality.html) to ensure your code works.
 
 ### Mid level
 
