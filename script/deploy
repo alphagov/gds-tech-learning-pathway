@@ -1,0 +1,3 @@
+#!/bin/bash
+cf login -a $CF_API -u $CF_USERNAME -p $CF_PASSWORD -o $CF_ORG -s $CF_SPACE
+cf zero-downtime-push gds-tech-learning-pathway -f manifest.yml
