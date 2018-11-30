@@ -15,7 +15,7 @@ We want to:
 
 ## How to contribute
 
-See [CONTRIBUTING.md](https://gds-tech-learning-pathway.cloudapps.digital/CONTRIBUTING.html)
+See [CONTRIBUTING.md](https://gds-tech-learning-pathway.cloudapps.digital/contributing)
 
 ## Running the site locally
 ```
