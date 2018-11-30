@@ -1,0 +1,25 @@
+env:
+  global:
+  - CF_API="https://api.cloud.service.gov.uk"
+  - CF_ORG="gds-tech-ops"
+  - CF_SPACE="docs"
+  - CF_USERNAME="philip.potter+tech-docs-deployer@digital.cabinet-office.gov.uk"
+
+branches:
+  only:
+  - master
+
+before_deploy:
+  - export PATH=$HOME:$PATH
+  # Install CloudFoundry
+  - travis_retry curl -L -o $HOME/cf.tgz "https://cli.run.pivotal.io/stable?release=linux64-binary&source=github"
+  - tar xzvf $HOME/cf.tgz -C $HOME
+  # Install Autopilot plugin for zero-downtime-push
+  - travis_retry cf install-plugin autopilot -f -r CF-Community
+
+script: bundle exec middleman build
+
+deploy:
+  - provider: script
+    script: ./script/deploy
+    skip_cleanup: true
