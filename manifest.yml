@@ -2,4 +2,4 @@
 applications:
 - name: gds-tech-learning-pathway
   memory: 64M
-  buildpack: static_buildpack
+  buildpack: staticfile_buildpack
