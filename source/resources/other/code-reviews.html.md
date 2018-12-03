@@ -42,11 +42,9 @@ reviews.
   - Link to the story -
     _Helps the reviewer to get context of the intent of the PR (as well as
     allowing those looking at the trello board to track progress)._
-  - Include screenshots, GIFs or links where necessary -
+  - Include screenshots, GIFs or links where necessary ([example](https://github.com/alphagov/frontend/pull/784)) -
     _This can help to illustrate the end result of the code, highlight changes
     made or explain your design choices._
-
-If your team is using github, you can set up a [pull request template](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/) to prompt team members to provide this information whenever they raise a pull request.
 
 ## How to give an effective code review
 
@@ -67,8 +65,7 @@ If your team is using github, you can set up a [pull request template](https://h
     teams labels comments as blocking or non-blocking to give the author a chance
     to only respond to what is absolutely necessary.
 
-
-## How to receive a code review
+## How to receive code review feedback
 
   - Ask questions if you are not sure.
   - Remind yourself that feedback about code is not personal.
@@ -79,10 +76,21 @@ If your team is using github, you can set up a [pull request template](https://h
   - Seek to understand the reviewer's perspective.
   - Try to respond to every comment.
 
-## Resources
+## Tips for improving your team's code reviews
+If you are using github, you can set up a [pull request template](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/) to prompt team members to provide enough information when they raise a pull request.
+
+You can also make code reviews run more smoothly by adopting [common coding conventions](https://gds-way.cloudapps.digital/manuals/programming-languages.html), and [using automated tools](https://gdstechnology.blog.gov.uk/2016/09/30/easing-the-process-of-pull-request-reviews/) to flag minor problems that don't need to be discussed.
+
+
+## Resources for contributing code
+- [How to raise a good pull request](http://www.annashipman.co.uk/jfdi/good-pull-requests.html)
+- [GOV.UK styleguide: pull requests](https://github.com/alphagov/styleguides/blob/master/pull-requests.md)
+
+## Resources for reviewing code
 - [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html)
 - [The art of giving and receiving code reviews](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 - [How to conduct effective code reviews](https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/)
+- [The Art of Code Review](https://skillsmatter.com/skillscasts/8085-the-art-of-code-review) (video, 23 minutes)
 - [Mozilla Science Lab: Reviewing a contribution](https://mozillascience.github.io/codeReview/review.html)
 - [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review)
 - [rOpenSci onboarding guide for reviewers](https://ropensci.github.io/dev_guide/onboarding-guide-for-reviewers.html)
