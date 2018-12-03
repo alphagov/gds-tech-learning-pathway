@@ -1,6 +1,6 @@
 ---
-last_reviewed_on: 2018-11-16
-review_in: 1 year
+last_reviewed_on: 2018-12-03
+review_in: 1 month
 title: Code reviews
 ---
 # Code reviews
@@ -46,6 +46,7 @@ reviews.
     _This can help to illustrate the end result of the code, highlight changes
     made or explain your design choices._
 
+If your team is using github, you can set up a [pull request template](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/) to prompt team members to provide this information whenever they raise a pull request.
 
 ## How to give an effective code review
 
@@ -79,8 +80,10 @@ reviews.
   - Try to respond to every comment.
 
 ## Resources
-http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
-https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/
-https://dev.to/codemouse92/10-principles-of-a-good-code-review-2eg
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://rubygarage.org/blog/code-review-tips
+- [The art of giving and receiving code reviews](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+- [How to conduct effective code reviews](https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/)
+- [Mozilla Science Lab: Reviewing a contribution](https://mozillascience.github.io/codeReview/review.html)
+- [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review)
+- [rOpenSci onboarding guide for reviewers](https://ropensci.github.io/dev_guide/onboarding-guide-for-reviewers.html)
+- [10 principles of a good code review](https://dev.to/codemouse92/10-principles-of-a-good-code-review-2eg)
+- [Code review tips](https://rubygarage.org/blog/code-review-tips)
