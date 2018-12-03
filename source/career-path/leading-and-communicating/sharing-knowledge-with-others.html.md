@@ -16,7 +16,7 @@ Much of what we’re doing is only possible because of open source code and the 
 ## Your role as developer/webops
 You can share knowledge internally by
 
-- Reviewing other developers' code
+- [Reviewing other developers' code](/resources/other/code-reviews.html)
 - Documenting software you work with
 - Demonstrating work at Show and Tell events and within your team
 - Speaking at a monthly Technospective
@@ -49,7 +49,3 @@ More suggestions:
 - help organise a workshop or presentation
 
 ### Senior level
-
-## Related guides
-
-## External resources

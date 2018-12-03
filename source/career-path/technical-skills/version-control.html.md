@@ -20,10 +20,9 @@ Source code should be [open to the public and published under an open source lic
 
 ## What you should be able to do
 
-- Understand and follow your team’s branching and code review process
+- Understand and follow your team’s branching and [code review](/resources/other/code-reviews.html) process
 - Understand the benefits of having a clear commit history
 - Write clear commit messages for your changes
-- Participate in code review
 
 ## Starting out
 
