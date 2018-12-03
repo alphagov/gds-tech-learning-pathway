@@ -80,6 +80,7 @@ If your team is using github, you can set up a [pull request template](https://h
   - Try to respond to every comment.
 
 ## Resources
+- [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html)
 - [The art of giving and receiving code reviews](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 - [How to conduct effective code reviews](https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/)
 - [Mozilla Science Lab: Reviewing a contribution](https://mozillascience.github.io/codeReview/review.html)
