@@ -38,10 +38,10 @@ You can also volunteer for the monthly Technospective to give a longer talk on a
 
 ### Mid level
 
-[Working together with other developers](/career-path/competencies/taking-the-lead-in-a-pair-situation.html) is a really good way to share knowledge, since you get to see other dev's workflow, environment and editor/ide config, and general approaches to problem solving.
+[Working together with other developers](/career-path/competencies/leading-and-communicating/pair-programming.html) is a really good way to share knowledge, since you get to see other dev's workflow, environment and editor/ide config, and general approaches to problem solving.
 
 You should also regularly review other developers' pull requests. It's a good idea to check other work-in-progress before picking up new stories, so that code review doesn't become a bottleneck for the team.
-[The GDS styleguide](https://github.com/alphagov/styleguides/blob/master/pull-requests.html#guidance-for-each-step) has guidance about how to do good code reviews well.
+See [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html) on the GDS way website for guidance about how to do code reviews well.
 
 More suggestions:
 

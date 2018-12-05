@@ -163,7 +163,7 @@ interface with browser software to action them.
 
 ### Code style
 
-- [GDS Style Guide](https://github.com/alphagov/styleguides/blob/master/ruby.html)
+- [GDS Style Guide](https://gds-way.cloudapps.digital/manuals/programming-languages/ruby.html)
 - [Community Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [Github Style Guide](https://github.com/styleguide/ruby)
 - [Better specs](http://betterspecs.org/)
@@ -184,7 +184,7 @@ interface with browser software to action them.
 [test-unit]: http://test-unit.github.io/
 [cucumber]: https://cucumber.io
 [cucumber-collaboration]: https://cucumber.io/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool
-[capybara]: http://jnicklas.github.io/capybara/
+[capybara]: http://teamcapybara.github.io/capybara/
 [rake]: https://github.com/ruby/rake
 [repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
 [zsh]: http://www.zsh.org/
