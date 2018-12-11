@@ -1,17 +1,15 @@
 ---
 last_reviewed_on: 2018-12-03
 review_in: 1 month
-title: Code reviews
+title: Conducting effective code reviews
 ---
-# Code reviews
+# Conducting effective code reviews
 
-## What is a code review?
+## What is a code review, and why do it?
 
 A code review is a quality assurance activity in which at least one developer
 (as well as the original author of the code) reviews code in order to spot
 mistakes and improve code quality.
-
-## Why do code reviews?
 
 There are many reasons to carry out code reviews and it has nothing to do with
 the competency of the original author! These include:
@@ -27,43 +25,24 @@ the competency of the original author! These include:
     in areas in which they themselves are not currently working, which may well
     help the team's efficiency and speed up future development._
 
-### Before requesting a code review
+## How to prepare a pull request for code review
 
 Properly prepared pull requests (PRs) lead to quicker and more efficient code
 reviews.
 
-  - Keep the PR as small and easy to review as possible -
-    _Not only does this speed up the code review process but it also increases the
-    likelihood that the reviewer can fully understand the context and intent of
-    the work. Often many small PRs are better than one large one._
-  - Explain any unusual decisions or key points -
-    _This saves the reviewer from needing to ask for clarification on your
-    thought process and often speeds up the review process._
-  - Link to the story -
-    _Helps the reviewer to get context of the intent of the PR (as well as
-    allowing those looking at the trello board to track progress)._
-  - Include screenshots, GIFs or links where necessary ([example](https://github.com/alphagov/frontend/pull/784)) -
-    _This can help to illustrate the end result of the code, highlight changes
-    made or explain your design choices._
+[How to raise a good pull request](http://www.annashipman.co.uk/jfdi/good-pull-requests.html) is a good explanation of how to do this.
 
-## How to give an effective code review
+<!-- Note: the below guidance is very similar to the GOV.UK PR styleguide. If we create a more general guide in the GDS Way, we can just link out to that like we do in the "how to give an effective code review section. -->
 
-  - Be kind and empathetic. Make an effort to ensure that the contributor does
-    not feel like they're being attacked or their competency questioned through
-    your feedback.
-  - Ask good questions; don't make demands. ("What do you think about naming this
-    :user_id?"). Good questions avoid judgment and avoid assumptions about the
-    author's perspective.
-  - Ask for clarification. ("I didn't understand. Can you clarify?")
-  - Be explicit. Remember people don't always understand your intentions via text.
-  - Pull down the code and test it out.
-  - Seek to understand the author's perspective.
-  - Try to identify ways to simplify the code while still solving the problem.
-  - Offer alternative implementations.
-  - Consider how code will work in production.
-  - Communicate which ideas you feel strongly about and which you don't. Some
-    teams labels comments as blocking or non-blocking to give the author a chance
-    to only respond to what is absolutely necessary.
+
+Different teams have different expectations about exactly what goes into a pull request (for example this [pull request styleguide](https://github.com/alphagov/styleguides/blob/master/pull-requests.md) for GOV.UK). But in general, you should:
+
+  - Keep the PR as small as possible. Often many small PRs are easier to review than one large one.
+  - Explain any unusual decisions or key points - this saves the reviewer from needing to ask for clarification on your
+    thought process.
+  - Include screenshots, GIFs or links where necessary ([example](https://github.com/alphagov/frontend/pull/784)).
+    This can help to illustrate the end result of the code, highlight changes
+    made or explain your design choices.
 
 ## How to receive code review feedback
 
@@ -76,18 +55,31 @@ reviews.
   - Seek to understand the reviewer's perspective.
   - Try to respond to every comment.
 
-## Tips for improving your team's code reviews
+## How to give an effective code review
+
+Above all, be kind and empathetic. Make an effort to ensure that the contributor does not feel like they're being attacked or their competency questioned through your feedback. Remember that people don't always understand your intentions via text, so be explicit and seek to understand the author's intent.
+
+For some tips on how to do this well, see:
+
+- [Social aspects of code review](https://mtlynch.io/human-code-reviews-1/)
+- [Phrasing review comments positively](https://codeahoy.com/2016/04/03/effective-code-reviews/)
+
+[How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html) in the GDS Way contains more detail about what you should consider when reviewing code at GDS.
+
+## Tips for streamlining code reviews
+Consider running through a checklist before asking for a review or when reviewing somebody else's code. See [checklists for code authors and reviewers](https://engineeringblog.yelp.com/2017/11/code-review-guidelines.html) for some examples.
+
 If you are using github, you can set up a [pull request template](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/) to prompt team members to provide enough information when they raise a pull request.
 
 You can also make code reviews run more smoothly by adopting [common coding conventions](https://gds-way.cloudapps.digital/manuals/programming-languages.html), and [using automated tools](https://gdstechnology.blog.gov.uk/2016/09/30/easing-the-process-of-pull-request-reviews/) to flag minor problems that don't need to be discussed.
 
+You don't need to have an in depth discussion about every code review comment. Some teams label comments as blocking or non-blocking to give the author a chance to only respond to what is absolutely necessary.
 
-## Resources for contributing code
-- [How to raise a good pull request](http://www.annashipman.co.uk/jfdi/good-pull-requests.html)
-- [GOV.UK styleguide: pull requests](https://github.com/alphagov/styleguides/blob/master/pull-requests.md)
+It's usually helpful to include a link to the story in the PR, to provide more context about why you are making the change. If you use trello, you can use the [github trello poster](https://github.com/emmabeynon/github-trello-poster) tool to automatically update the card with a checklist of all PRs that link to it.
 
-## Resources for reviewing code
-- [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html)
+Some teams automatically deploy PR branches to heroku, so that reviewers can test the branch more easily. This works well for applications that don't need access to protected services or data, for example [GOV.UK frontend](https://github.com/alphagov/govuk-frontend/pull/1075).
+
+## Further reading
 - [The art of giving and receiving code reviews](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 - [How to conduct effective code reviews](https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/)
 - [The Art of Code Review](https://skillsmatter.com/skillscasts/8085-the-art-of-code-review) (video, 23 minutes)
