@@ -79,6 +79,8 @@ It's usually helpful to include a link to the story in the PR, to provide more c
 
 Some teams automatically deploy PR branches to heroku, so that reviewers can test the branch more easily. This works well for applications that don't need access to protected services or data, for example [GOV.UK frontend](https://github.com/alphagov/govuk-frontend/pull/1075).
 
+To make sure pull requests are reviewed quickly, you can request reviews from specific people through github, or you can use the [Seal bot](https://github.com/binaryberry/seal) to regularly post a list of pull requests that need reviews to your team's slack channel.
+
 ## Further reading
 - [The art of giving and receiving code reviews](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 - [How to conduct effective code reviews](https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/)
