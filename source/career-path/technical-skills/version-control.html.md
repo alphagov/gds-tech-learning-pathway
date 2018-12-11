@@ -1,6 +1,6 @@
 ---
 weight: 10
-last_reviewed_on: 2018-11-16
+last_reviewed_on: 2018-12-03
 review_in: 1 month
 title: Using version control
 ---
@@ -20,10 +20,9 @@ Source code should be [open to the public and published under an open source lic
 
 ## What you should be able to do
 
-- Understand and follow your team’s branching and code review process
+- Understand and follow your team’s branching and [code review](/resources/other/code-reviews.html) process
 - Understand the benefits of having a clear commit history
 - Write clear commit messages for your changes
-- Participate in code review
 
 ## Starting out
 
@@ -58,14 +57,3 @@ We’d expect a Junior developer to be able to do all of these things.
 Writing clear commit messages helps other developers (including your future self) understand why changes were made.
 
 See [styleguide: git](https://github.com/alphagov/styleguides/blob/master/git.md) for some good examples.
-
-## Effective pull requests
-See [styleguide: pull requests](https://github.com/alphagov/styleguides/blob/master/pull-requests.md) for details about how to raise and review pull requests.
-
-We make code review run more smoothly by agreeing on a [common set of coding conventions](https://github.com/alphagov/styleguides), and [using automated tools](https://gdstechnology.blog.gov.uk/2016/09/30/easing-the-process-of-pull-request-reviews/) instead of nitpicking small problems. This lets the reviewer focus on other aspects of the pull request.
-
-### Further reading
-- [The Importance of code reviews](https://www.sitepoint.com/the-importance-of-code-reviews/)
-- [How to conduct effective code reviews](https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/)
-- [Principles of a good code review](https://dev.to/codemouse92/10-principles-of-a-good-code-review-2eg)
-- [The Art of Code Review](https://skillsmatter.com/skillscasts/8085-the-art-of-code-review) (video, 23 minutes)

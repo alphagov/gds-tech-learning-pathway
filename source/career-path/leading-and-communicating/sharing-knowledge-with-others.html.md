@@ -16,7 +16,7 @@ Much of what we’re doing is only possible because of open source code and the 
 ## Your role as developer/webops
 You can share knowledge internally by
 
-- Reviewing other developers' code
+- [Reviewing other developers' code](/resources/other/code-reviews.html)
 - Documenting software you work with
 - Demonstrating work at Show and Tell events and within your team
 - Speaking at a monthly Technospective
@@ -40,8 +40,7 @@ You can also volunteer for the monthly Technospective to give a longer talk on a
 
 [Working together with other developers](/career-path/competencies/leading-and-communicating/pair-programming.html) is a really good way to share knowledge, since you get to see other dev's workflow, environment and editor/ide config, and general approaches to problem solving.
 
-You should also regularly review other developers' pull requests. It's a good idea to check other work-in-progress before picking up new stories, so that code review doesn't become a bottleneck for the team.
-See [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html) on the GDS way website for guidance about how to do code reviews well.
+You should also regularly review other developers' pull requests. It's a good idea to check other work-in-progress before picking up new stories, so that code review doesn't become a bottleneck for the team. See the [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html) on the GDS way website for guidance about how to do code reviews well.
 
 More suggestions:
 
@@ -50,7 +49,3 @@ More suggestions:
 - help organise a workshop or presentation
 
 ### Senior level
-
-## Related guides
-
-## External resources

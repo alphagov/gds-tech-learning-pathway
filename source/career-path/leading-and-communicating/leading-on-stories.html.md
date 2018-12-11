@@ -41,7 +41,7 @@ This could involve:
 - working with the tech lead and the rest of the team to agree scope and identify risks to delivery early on
 - creating well defined stories for other developers to pick up or suggesting an approach to take
 - helping to resolve blockers
-- making sure code gets code reviewed quickly
+- making sure code gets [code reviewed](/resources/other/code-reviews.html) quickly
 - doing a timeboxed investigation (spike) into a problem area
 
 ## As a tech lead (any level)

@@ -11,7 +11,7 @@ title: Designing for reliability
 
 Writing code is a core part of software development, but our responsibility extends beyond that.
 
-As a developer you are responsible for the whole release process, from code review to
+As a developer you are responsible for the whole release process, from [code review](/resources/other/code-reviews.html) to
 deployment on a production system. You should also ensure that the products you are
 working on are easy to support and operate.
 
