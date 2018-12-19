@@ -36,3 +36,6 @@ At a mid level, you will be working more independently, or taking a lead in pair
 
 ### Senior level
 
+At senior level, you can build a culture of asking questions by setting a good example.
+
+For example, if you notice people using acronyms or jargon that not everyone knows about, ask them what it means! Often we use jargon without even realising it, and somebody pointing it out provides an opportunity to better introduce the technology or concept to people who might not be familiar with it.
