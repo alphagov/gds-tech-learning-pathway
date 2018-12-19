@@ -1,7 +1,7 @@
 ---
 weight: 10
-last_reviewed_on: 2018-11-16
-review_in: 1 month
+last_reviewed_on: 2018-12-19
+review_in: 6 months
 title: Elasticsearch
 ---
 
