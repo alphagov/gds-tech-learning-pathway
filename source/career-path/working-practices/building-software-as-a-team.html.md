@@ -1,35 +1,44 @@
 ---
 title: Building software as a team
 weight: 10
-last_reviewed_on: 2018-11-16
-review_in: 1 week
+last_reviewed_on: 2018-12-19
+review_in: 2 months
 ---
 
 # Building software as a team
 
 ## The developer's role
-Agile teams recognise that nothing is going to be perfect first time, but if we
-release stuff regularly we can learn about and continuously improve products.
+Agile teams recognise that nothing has to be perfect first time, but if we
+release software regularly we can continuously improve products.
 
-As developers it's important that we can easily respond to change, and teams can
-continue to support products without relying on the original authors of the code
-always being there (otherwise we could never take a holiday).
+Developers supporting the software should be able to quickly respond to change, and teams should not depend on the original authors of the code always being there (otherwise we could never take a holiday).
 
 ### Junior level
 
 You should:
 
 - be familiar with the language and tools your team uses.
-- follow coding conventions/styleguides for your language
+- follow [coding conventions/styleguides](https://gds-way.cloudapps.digital/manuals/programming-languages.html) for your language
 - understand that code is read more often that it is written
 - prefer to refactor and reuse code rather than duplicating it
 
 ### Mid level
 
+You should:
+
+- share knowledge of tools and techniques with your wider team
+- participate in [support operations](https://gds-way.cloudapps.digital/standards/supporting-services.html) in hours or out of hours (as part of an on-call rota)
+
+
 ### Senior level
 
+You should:
 
-### External resources
+- Be familiar with working practices such as TDD, continuous integration, continuous delivery and DevOps
+- Be able to quickly research and learn new programming tools and techniques
+- Support and coach more junior members of the team
+
+### Programming language resources
 
 Depending on the technology you're working with you may find the following resource lists helpful:
 
