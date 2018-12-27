@@ -1,7 +1,7 @@
 ---
 weight: 10
-last_reviewed_on: 2018-11-16
-review_in: 1 month
+last_reviewed_on: 2018-12-27
+review_in: 3 months
 title: Leading on delivering stories
 ---
 
@@ -10,6 +10,7 @@ title: Leading on delivering stories
 ## The developers role
 
 You should take responsibility for:
+
 - figuring out how to deliver a user story in the most appropriate way
 - considering and balancing short and long term impacts of implementation choices
 - ensuring that code produced is of the appropriate quality (which will be different for a prototype vs a live production service)
@@ -22,11 +23,12 @@ At junior level, you will be given support to work on user stories. You will nor
 A well defined story will:
 
 - have clear acceptance criteria, so that you know when you're done
-- have a clear statement of which files, classes, tests, microservices will need to change, and in what way
+- have a clear statement of which files, classes, tests, and microservices will need to change, and in what way
 
 ### Mid level
 
 At mid level, we expect you to:
+
 - lead on more complex stories
 - support juniors and new starters in your team through pairing and providing guidance on delivering stories
 - decide which stories to prioritise over others
