@@ -1,7 +1,7 @@
 ---
 weight: 70
-last_reviewed_on: 2018-11-16
-review_in: 1 month
+last_reviewed_on: 2018-12-28
+review_in: 3 months
 title: Owning your development plan
 ---
 
@@ -14,8 +14,8 @@ development by forming a development plan.
 
 Developers should identify areas they are interested in and areas where they
 have skill gaps and seek out suitable resources to help further their
-understanding. This can be in the form of books, courses, self-study,
-conferences, mentoring etc.
+understanding. This might include books, courses, self-study,
+conferences, or mentoring.
 
 Your development plan should be reflected in your objective (for example under
 the heading "What are you doing for personal development?") and discussed with
@@ -26,25 +26,26 @@ your line manager.
 You will probably have broad goals in your development plan as you become familiar
 with the large surface area of modern development and web/dev ops.
 
-As a junior you have 20% time where you can focus on things that will help your development such as tutorials, books and projects.
+As a junior you have 20% time where you can focus on things that will help your
+development such as tutorials, books and projects.
 
 You also have the opportunity to to work on a project that is non-delivery related
 but benefits GDS. A 20% project should have some specific learning outcomes and
-pairing with other juniors is encouraged to help juniors support and learn from
+pairing with other juniors is encouraged to help you support and learn from
 each other.
 
-There is a spreadsheet of suggested 20% time projects
+There is a [spreadsheet of suggested 20% time projects]
 (https://docs.google.com/spreadsheets/d/1Nrt4oZEMYZR_54SdKApzNrBDKgxafIiPpQSfb3taUDE/edit#gid=492186728).
 
 You should discuss the project with your line manager before starting on it.
 
 ### Mid level
 
-Your development plan may begin to focus more on higher level concepts - how to
-design maintainable and scalable solutions. Learning not only the intricacies of
-code, but also other skills that go into developing software like user research
+Your development plan may begin to focus more on higher level concepts, such as how to
+design maintainable and scalable solutions. You could focus on not only learning
+the intricacies of code, but also other skills that go into developing software like user research
 and writing good user stories. A mid level plan might also include some
 mentoring and presenting to help spread knowledge through the organisation.
 
-Specific technology learning might be project based, for example if you are
+Specific technology learning might be project based. For example, if you are
 working on search you might delve into Elasticsearch.
