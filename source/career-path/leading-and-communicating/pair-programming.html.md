@@ -1,7 +1,7 @@
 ---
 weight: 60
-last_reviewed_on: 2018-11-16
-review_in: 1 month
+last_reviewed_on: 2018-12-27
+review_in: 3 months
 title: Pair programming
 ---
 
@@ -35,12 +35,13 @@ Pairing is not easy. It takes practice and sensitivity. It's an intensely human 
 ### Mid level
 - Take responsibility for ensuring your pair remains engaged, slowing down when needed
 - Give feedback to your pair on style
-- Recognise when to take time away from the computer to explain concepts and ideas - using whiteboards e.t.c.
+- Recognise when to take time away from the computer to explain concepts and ideas.
+This might mean using a whiteboard or some paper and a pen.
 - Draw pair into discussion around design and approach
 
 ### Senior level
 - Effectively pair with developers of all levels.
-- Recognise the strengths and weakenesses of your pair, and how these relate to your own strengths and weaknesses. Use this knowledge to adapt behaviour appropriately
+- Recognise the strengths and weaknesses of your pair, and how these relate to your own strengths and weaknesses. Use this knowledge to adapt behaviour appropriately
 
 ## Mob programming
 
