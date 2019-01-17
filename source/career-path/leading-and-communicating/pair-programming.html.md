@@ -1,6 +1,6 @@
 ---
 weight: 60
-last_reviewed_on: 2018-12-27
+last_reviewed_on: 2019-01-17
 review_in: 3 months
 title: Pair programming
 ---
