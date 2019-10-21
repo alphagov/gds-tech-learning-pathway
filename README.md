@@ -26,11 +26,16 @@ bundle exec middleman serve
 This will serve the site at http://localhost:4567
 
 ## Deploying the site
-The app currently runs within the govuk sandbox space on the government PaaS. You need an account to deploy it. If you haven't used it before, ask someone for help setting this up.
+The app currently runs within the `gds-tech-ops/docs` space on the government PaaS. You need an account to deploy it. If you haven't used it before, ask someone for help setting this up.
 
 Generate the static site using `bundle exec middleman build`
 
-You can then deploy with cloundfoundry: `cf push`
+You can then deploy with cloundfoundry:
+
+```
+cf target -o gds-tech-ops -s docs
+cf push
+```
 
 ## Longer term goals
 

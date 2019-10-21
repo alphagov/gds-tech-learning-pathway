@@ -13,6 +13,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 # Include the tech docs gem
 gem 'govuk_tech_docs'
 
+gem 'middleman-search-gds', git: 'https://github.com/alphagov/middleman-search.git'
 gem 'rack-contrib'
 gem 'foreman'
 gem 'puma'
