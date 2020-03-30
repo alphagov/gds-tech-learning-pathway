@@ -26,11 +26,11 @@ Source code should be [open to the public and published under an open source lic
 
 ## Starting out
 
-- [Be able to clone a git repository](https://services.github.com/on-demand/github-cli/clone-repo-cli)
-- [Be able to create a branch](https://www.atlassian.com/git/tutorials/using-branches)
-- [Be able to make commits with clear commit messages](https://www.atlassian.com/git/tutorials/saving-changes)
-- [Be able to push changes](https://www.atlassian.com/git/tutorials/syncing/git-push)
-- [Open a pull request](https://services.github.com/on-demand/github-cli/open-pull-request-github)
+- Be able to clone a git repository
+- Be able to create a branch
+- Be able to make commits with clear commit messages
+- Be able to push changes
+- Open a pull request
 - [Understand what rebasing is](https://nathanleclaire.com/blog/2014/09/14/dont-be-scared-of-git-rebase/)
 - Understand when it is necessary to force push (and when NOT to :-))
 - Understand the [git styleguide](https://github.com/alphagov/styleguides/blob/master/git.md)
