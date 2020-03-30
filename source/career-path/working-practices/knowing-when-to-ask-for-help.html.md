@@ -1,7 +1,7 @@
 ---
 weight: 20
-last_reviewed_on: 2018-12-19
-review_in: 3 months
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Knowing when to ask for help
 ---
 # Knowing when to ask for help

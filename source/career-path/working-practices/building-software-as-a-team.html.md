@@ -1,8 +1,8 @@
 ---
 title: Building software as a team
 weight: 10
-last_reviewed_on: 2018-12-19
-review_in: 2 months
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 ---
 
 # Building software as a team

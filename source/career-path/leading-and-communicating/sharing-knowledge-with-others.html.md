@@ -1,7 +1,7 @@
 ---
 weight: 40
-last_reviewed_on: 2019-01-17
-review_in: 1 month
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Sharing knowledge with others
 ---
 

@@ -1,7 +1,7 @@
 ---
 weight: 10
-last_reviewed_on: 2018-12-03
-review_in: 1 month
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Using version control
 ---
 

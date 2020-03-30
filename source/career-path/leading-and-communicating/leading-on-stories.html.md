@@ -1,7 +1,7 @@
 ---
 weight: 10
-last_reviewed_on: 2018-12-27
-review_in: 3 months
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Leading on delivering stories
 ---
 
