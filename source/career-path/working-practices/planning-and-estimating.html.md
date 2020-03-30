@@ -1,7 +1,7 @@
 ---
 weight: 30
-last_reviewed_on: 2018-11-16
-review_in: 1 month
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Planning and estimating
 ---
 

@@ -1,7 +1,7 @@
 ---
 weight: 10
-last_reviewed_on: 2018-12-27
-review_in: 3 months
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Leading on delivering stories
 ---
 
@@ -18,7 +18,7 @@ You should take responsibility for:
 
 ### Junior level
 
-At junior level, you will be given support to work on user stories. You will normally work in a pair with a more experienced developer. You may be asked to take the lead on well defined stories - [see an example](/resources/other/user-story-template.html).
+At junior level, you will be given support to work on user stories. You will normally work in a pair with a more experienced developer. You may be asked to take the lead on well defined stories - [see an example](/resources/delivery/user-story-template.html).
 
 A well defined story will:
 
@@ -60,7 +60,3 @@ maintaining technical standards. This may involve:
 As a tech lead, you shouldn't try to do everything yourself, even if it's easier. This is not sustainable in the long term and takes learning opportunities away from other developers on the team.
 
 The tech lead can also be a tie-breaker - if your team is having trouble making a decision, make the call.
-
-## External resources
-
-- The Verify team manual has a useful section on the role of the tech lead (which the above section is based on).

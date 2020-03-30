@@ -1,7 +1,7 @@
 ---
 weight: 100
-last_reviewed_on: 2018-11-16
-review_in: 1 month
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Designing for reliability
 ---
 
@@ -19,7 +19,7 @@ working on are easy to support and operate.
 
 Working with a more experienced developer, you should be able to produce code of a sufficient quality standard to ship to production.
 
-You should [use automated testing](/career-path/competencies/technical-skills/using-appropriate-testing-to-ensure-software-quality.html) to ensure your code works.
+You should [use automated testing](/career-path/technical-skills/using-appropriate-testing-to-ensure-software-quality.html) to ensure your code works.
 
 ### Mid level
 

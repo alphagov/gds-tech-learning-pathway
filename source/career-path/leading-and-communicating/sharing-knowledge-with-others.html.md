@@ -1,7 +1,7 @@
 ---
 weight: 40
-last_reviewed_on: 2019-01-17
-review_in: 1 month
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 title: Sharing knowledge with others
 ---
 
@@ -39,7 +39,7 @@ You can also volunteer for the monthly Technospective to give a longer talk on a
 
 ### Mid level
 
-[Working together with other developers](/career-path/competencies/leading-and-communicating/pair-programming.html) is a really good way to share knowledge, since you get to see other developer's workflow, environment and editor/IDE config, and general approaches to problem solving.
+[Working together with other developers](/career-path/leading-and-communicating/pair-programming.html) is a really good way to share knowledge, since you get to see other developer's workflow, environment and editor/IDE config, and general approaches to problem solving.
 
 You should also regularly review other developers' pull requests. It's a good idea to check other work-in-progress before picking up new stories, so that code review doesn't become a bottleneck for the team. See the [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html) on the GDS way website for guidance about how to do code reviews well.
 

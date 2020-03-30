@@ -1,8 +1,8 @@
 ---
 title: Building software as a team
 weight: 10
-last_reviewed_on: 2018-12-19
-review_in: 2 months
+last_reviewed_on: 2020-03-30
+review_in: 6 months
 ---
 
 # Building software as a team
@@ -27,7 +27,7 @@ You should:
 You should:
 
 - share knowledge of tools and techniques with your wider team
-- participate in [support operations](https://gds-way.cloudapps.digital/standards/supporting-services.html) in hours or out of hours (as part of an on-call rota)
+- participate in [support operations](https://gds-way.cloudapps.digital/standards/user-support.html) in hours or out of hours (as part of an on-call rota)
 
 
 ### Senior level
