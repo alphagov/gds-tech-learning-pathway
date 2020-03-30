@@ -26,7 +26,7 @@ When asking questions, be sure to provide context about what you are trying to d
 
 ### Junior level
 
-You'll usually be given [well defined tasks](/career-path/competencies/leading-and-communicating/leading-on-stories.html#junior-level) to work on, with support from a more experienced developer. Discuss the work with your colleague and try to understand what's involved.
+You'll usually be given [well defined tasks](/career-path/leading-and-communicating/leading-on-stories.html#junior-level) to work on, with support from a more experienced developer. Discuss the work with your colleague and try to understand what's involved.
 
 The person you're working with will give you guidance and you can ask questions as you go along. There's no such thing as a stupid question, so don't be afraid to ask!
 

@@ -27,7 +27,7 @@ You should:
 You should:
 
 - share knowledge of tools and techniques with your wider team
-- participate in [support operations](https://gds-way.cloudapps.digital/standards/supporting-services.html) in hours or out of hours (as part of an on-call rota)
+- participate in [support operations](https://gds-way.cloudapps.digital/standards/user-support.html) in hours or out of hours (as part of an on-call rota)
 
 
 ### Senior level
