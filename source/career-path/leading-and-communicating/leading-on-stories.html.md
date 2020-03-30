@@ -60,7 +60,3 @@ maintaining technical standards. This may involve:
 As a tech lead, you shouldn't try to do everything yourself, even if it's easier. This is not sustainable in the long term and takes learning opportunities away from other developers on the team.
 
 The tech lead can also be a tie-breaker - if your team is having trouble making a decision, make the call.
-
-## External resources
-
-- The Verify team manual has a useful section on the role of the tech lead (which the above section is based on).
