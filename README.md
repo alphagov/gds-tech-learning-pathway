@@ -23,6 +23,15 @@ bundle install
 bundle exec middleman serve
 ```
 
+Or with Docker:
+
+```
+docker-compose build
+docker-compose run web bundle update && docker-compose build  # when required
+
+docker-compose up
+```
+
 This will serve the site at http://localhost:4567
 
 ## Deploying the site
