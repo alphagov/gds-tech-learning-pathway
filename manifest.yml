@@ -1,5 +1,0 @@
----
-applications:
-- name: gds-tech-learning-pathway
-  memory: 64M
-  buildpack: ruby_buildpack
