@@ -58,7 +58,7 @@ any arguments.
 
 ### Rails Test Frameworks
 
-See [Ruby test frameworks](/resources/languages/ruby.html)
+See [Ruby test frameworks](/resources/languages/ruby.html.md)
 
 ### Code style
 

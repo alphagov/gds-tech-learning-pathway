@@ -48,7 +48,7 @@ Many skills are best developed through working on a project as part of a team.
 This can include:
 
 - building and supporting software
-- participating in [code reviews](/resources/other/code-reviews.html)
+- participating in [code reviews](/resources/other/code-reviews.html.md)
 - attending incident reviews
 - participating in show & tells
 - writing and speaking about your work externally

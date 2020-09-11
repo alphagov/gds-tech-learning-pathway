@@ -18,7 +18,7 @@ You should take responsibility for:
 
 ### Junior level
 
-At junior level, you will be given support to work on user stories. You will normally work in a pair with a more experienced developer. You may be asked to take the lead on well defined stories - [see an example](/resources/delivery/user-story-template.html).
+At junior level, you will be given support to work on user stories. You will normally work in a pair with a more experienced developer. You may be asked to take the lead on well defined stories - [see an example](/resources/delivery/user-story-template.html.md).
 
 A well defined story will:
 
@@ -43,7 +43,7 @@ This could involve:
 - working with the tech lead and the rest of the team to agree scope and identify risks to delivery early on
 - creating well defined stories for other developers to pick up or suggesting an approach to take
 - helping to resolve blockers
-- making sure code gets [code reviewed](/resources/other/code-reviews.html) quickly
+- making sure code gets [code reviewed](/resources/other/code-reviews.html.md) quickly
 - doing a timeboxed investigation (spike) into a problem area
 
 ## As a tech lead (any level)

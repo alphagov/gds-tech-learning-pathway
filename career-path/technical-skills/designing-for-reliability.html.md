@@ -11,7 +11,7 @@ title: Designing for reliability
 
 Writing code is a core part of software development, but our responsibility extends beyond that.
 
-As a developer you are responsible for the whole release process, from [code review](/resources/other/code-reviews.html) to
+As a developer you are responsible for the whole release process, from [code review](/resources/other/code-reviews.html.md) to
 deployment on a production system. You should also ensure that the products you are
 working on are easy to support and operate.
 
@@ -19,7 +19,7 @@ working on are easy to support and operate.
 
 Working with a more experienced developer, you should be able to produce code of a sufficient quality standard to ship to production.
 
-You should [use automated testing](/career-path/technical-skills/using-appropriate-testing-to-ensure-software-quality.html) to ensure your code works.
+You should [use automated testing](/career-path/technical-skills/using-appropriate-testing-to-ensure-software-quality.html.md) to ensure your code works.
 
 ### Mid level
 
@@ -44,4 +44,4 @@ At senior level, you should
 
 
 ## External resources
-- [Resources: Reliability engineering](/resources/systems/reliability-engineering.html)
+- [Resources: Reliability engineering](/resources/systems/reliability-engineering.html.md)

@@ -42,16 +42,16 @@ You should:
 
 Depending on the technology you're working with you may find the following resource lists helpful:
 
-- [Python](/resources/languages/python.html)
-- [Ruby](/resources/languages/ruby.html)
-- [Rails](/resources/frameworks/rails.html)
-- [Java](/resources/languages/java.html)
-- [Node.js](/resources/frameworks/nodejs.html)
+- [Python](/resources/languages/python.html.md)
+- [Ruby](/resources/languages/ruby.html.md)
+- [Rails](/resources/frameworks/rails.html.md)
+- [Java](/resources/languages/java.html.md)
+- [Node.js](/resources/frameworks/nodejs.html.md)
 
 ### Techniques
 
 - [Pair
-  programming](/career-path/leading-and-communicating/pair-programming.html)
-- [Giving and receiving feedback](/resources/other/giving-and-receiving-feedback.html)
-- [Structuring code](/resources/delivery/structuring-code.html)
-- [Documenting work](/resources/other/documentation.html)
+  programming](/career-path/leading-and-communicating/pair-programming.html.md)
+- [Giving and receiving feedback](/resources/other/giving-and-receiving-feedback.html.md)
+- [Structuring code](/resources/delivery/structuring-code.html.md)
+- [Documenting work](/resources/other/documentation.html.md)

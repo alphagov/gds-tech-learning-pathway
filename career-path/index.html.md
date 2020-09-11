@@ -19,38 +19,38 @@ These competencies do not generally distinguish between developers, web operatio
 
 ### Working practices
 
-- [Building software as a team](working-practices/building-software-as-a-team.html)
-- [Knowing when to ask for help](working-practices/knowing-when-to-ask-for-help.html)
-- [Planning and estimating](working-practices/planning-and-estimating.html)
-- [Prioritising your time](working-practices/prioritising-your-time.html)
-- [Working independently](working-practices/working-independently.html)
-- [Working as a multi-disciplinary team](working-practices/working-as-a-multi-disciplinary-team.html)
-- [Owning your development plan](working-practices/owning-your-development-plan.html)
+- [Building software as a team](working-practices/building-software-as-a-team.html.md)
+- [Knowing when to ask for help](working-practices/knowing-when-to-ask-for-help.html.md)
+- [Planning and estimating](working-practices/planning-and-estimating.html.md)
+- [Prioritising your time](working-practices/prioritising-your-time.html.md)
+- [Working independently](working-practices/working-independently.html.md)
+- [Working as a multi-disciplinary team](working-practices/working-as-a-multi-disciplinary-team.html.md)
+- [Owning your development plan](working-practices/owning-your-development-plan.html.md)
 
 
 ### Technical skills
 
-- [Version control](technical-skills/version-control.html)
-- [Using a sytematic approach to solve problems](technical-skills/systematic-approach-solving-problems.html)
-- [Technical debt tradeoffs](technical-skills/technical-debt-tradeoffs.html)
-- [Diagnosing and debugging issues](technical-skills/diagnosing-and-debugging-issues.html)
-- [Using appropriate testing to ensure software quality](technical-skills/using-appropriate-testing-to-ensure-software-quality.html)
-- [Designing technical features](technical-skills/designing-technical-features.html)
-- [Designing and testing for accessibility](technical-skills/designing-and-testing-for-accessibility.html)
-- [Building secure services](technical-skills/building-secure-services.html)
-- [Assessing performance](technical-skills/assessing-performance.html)
-- [Designing for reliability](technical-skills/designing-for-reliability.html)
-- [Selecting technology](technical-skills/selecting-technology.html)
+- [Version control](technical-skills/version-control.html.md)
+- [Using a sytematic approach to solve problems](technical-skills/systematic-approach-solving-problems.html.md)
+- [Technical debt tradeoffs](technical-skills/technical-debt-tradeoffs.html.md)
+- [Diagnosing and debugging issues](technical-skills/diagnosing-and-debugging-issues.html.md)
+- [Using appropriate testing to ensure software quality](technical-skills/using-appropriate-testing-to-ensure-software-quality.html.md)
+- [Designing technical features](technical-skills/designing-technical-features.html.md)
+- [Designing and testing for accessibility](technical-skills/designing-and-testing-for-accessibility.html.md)
+- [Building secure services](technical-skills/building-secure-services.html.md)
+- [Assessing performance](technical-skills/assessing-performance.html.md)
+- [Designing for reliability](technical-skills/designing-for-reliability.html.md)
+- [Selecting technology](technical-skills/selecting-technology.html.md)
 
 
 ### Leading and communicating
-- [Leading on stories](leading-and-communicating/leading-on-stories.html)
-- [Wider context](leading-and-communicating/wider-context-of-work.html)
-- [Writing and speaking](leading-and-communicating/writing-and-speaking.html)
-- [Sharing knowledge with others](leading-and-communicating/sharing-knowledge-with-others.html)
-- [Awareness of wider community](leading-and-communicating/awareness-of-wider-community.html)
+- [Leading on stories](leading-and-communicating/leading-on-stories.html.md)
+- [Wider context](leading-and-communicating/wider-context-of-work.html.md)
+- [Writing and speaking](leading-and-communicating/writing-and-speaking.html.md)
+- [Sharing knowledge with others](leading-and-communicating/sharing-knowledge-with-others.html.md)
+- [Awareness of wider community](leading-and-communicating/awareness-of-wider-community.html.md)
 - Comunicating assumptions and getting clarification up front to minimise rework
-- [Pair programming](leading-and-communicating/pair-programming.html)
+- [Pair programming](leading-and-communicating/pair-programming.html.md)
 
 ### Adding a competency to this page
 ```

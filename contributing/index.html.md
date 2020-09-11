@@ -11,7 +11,7 @@ Here are a few ways you can help:
 1. [Review open pull requests](https://github.com/alphagov/gds-tech-learning-pathway/pulls). You don't have to be an expert on the topic to make suggestions.
 2. Improve the copy so it's [easier to understand](https://www.gov.uk/guidance/content-design/writing-for-gov-uk).
 3. Write a resource list for a topic you're interested in
-4. Write a competency statement following the [template](template.html). Speak to someone before starting this as we have a list of competencies and what we think should go in them.
+4. Write a competency statement following the [template](template.html.md). Speak to someone before starting this as we have a list of competencies and what we think should go in them.
 4. Triage [issues](https://github.com/alphagov/gds-tech-learning-pathway/issues) and work out how they can be incorporated into the existing structure. This might be just adding a link to a resource list.
 5. Raise an issue for something that is currently missing from the learning pathway.
 
