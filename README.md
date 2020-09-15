@@ -1,9 +1,6 @@
 # GDS Technology Community - Learning Pathways
-[![Build Status](https://circleci.com/gh/alphagov/gds-tech-learning-pathway.svg?&style=shield)](https://circleci.com/gh/alphagov/gds-tech-learning-pathway)
 
 This project exists to bring together the GDS Technology community's collective knowledge and resources to support the learning and development of technologists.
-
-View it at [gds-tech-learning-pathway.cloudapps.digital](https://gds-tech-learning-pathway.cloudapps.digital) 👈
 
 ## Goals
 
@@ -15,27 +12,7 @@ We want to:
 
 ## How to contribute
 
-See [CONTRIBUTING.md](https://gds-tech-learning-pathway.cloudapps.digital/contributing)
-
-## Running the site locally
-```
-bundle install
-bundle exec middleman serve
-```
-
-This will serve the site at http://localhost:4567
-
-## Deploying the site
-The app currently runs within the `gds-tech-ops/docs` space on the government PaaS. You need an account to deploy it. If you haven't used it before, ask someone for help setting this up.
-
-Generate the static site using `bundle exec middleman build`
-
-You can then deploy with cloundfoundry:
-
-```
-cf target -o gds-tech-ops -s docs
-cf push
-```
+See [CONTRIBUTING.md](contributing/index.html.md)
 
 ## Longer term goals
 
