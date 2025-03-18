@@ -1,8 +1,8 @@
 ---
 title: Ways to learn
 weight: 50
-last_reviewed_on: 2018-11-16
-review_in: 1 month
+last_reviewed_on: 2025-02-13
+review_in: 6 months
 ---
 
 # Ways to learn
@@ -21,6 +21,28 @@ Study materials could include books, videos, or guided tutorials.
 GDS has a [library](https://gds-library.cloudapps.digital) and subscriptions to [Pluralsight](https://www.pluralsight.com/) that you can use.
 
 If you know others with similar learning goals, consider organising a group to learn together, or presenting back what you've learned to other people.
+
+## Supported learning
+
+You can learn while being supported by other software developers.
+
+Project Early Talent Assigned Learning (PETAL) is a GDS tech community initiative where you dedicate your 20% time to work on your learning goals with your own bespoke learning project.
+
+A PETAL semester is one day a week, for twelve weeks, and is open to GDS juniors and apprentices. A semester is run by one or two GDS software developers and has a group of other junior peers working on their own learning goals.
+
+Your goals can be anything that will help your technical development, and you will get help to decide a project that is achievable within the semester.
+
+There is some flexibility to how each semester runs, though typically:
+
+- days start with a short standup
+- days have a tech talk just for the group
+- participants have opportunities to chat and/or pair with software developers and semester peers on whatever topic will help their learning (like knowledge sharing, project planning, coding)
+- show and tell sessions every few weeks
+- a couple of retrospective sessions where we discuss the semester and how it can be improved
+
+See [#proj-early-talent-assigned-learning](https://gds.slack.com/archives/C05599LTS0J) for information on how to join the next semester.
+
+Interesting in running a PETAL semester? see the guidance for [Running PETAL](./running-petal.md).
 
 ## Formal training
 You can book training through the people development form. Talk to #ask-learning-and-devt on slack if you have any questions.
